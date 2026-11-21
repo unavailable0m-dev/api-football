@@ -10,13 +10,22 @@ export function dateQueries(previous,now=new Date(),horizon=7){
  return [...dates,...[...extra].sort()];
 }
 export async function fetchMatches(id,previous,{now=new Date(),fetcher=fetchScoreboard}={}){
- const bodies=[];
- for(const dates of dateQueries(previous,now))bodies.push(await fetcher(id,dates));
- const league=bodies[0].leagues.find(l=>l.slug===id);
- const observed=new Set();const matches=[];
- for(const body of bodies)for(const event of body.events){observed.add(String(event.id));const match=normalizeEvent(event,league);if(match)matches.push(match);}
- // A missing previously tracked event is not proof it finished. Preserve the entire
- // league on this uncertainty instead of silently deleting an upcoming/live event.
+ const queried=new Set(),observed=new Set(),found=[];let league;
+ const query=async date=>{
+   const body=await fetcher(id,date);queried.add(date);
+   league??=body.leagues.find(l=>l.slug===id);
+   for(const event of body.events){observed.add(String(event.id));const match=normalizeEvent(event,league);if(match)found.push(match);}
+ };
+ const upcoming=()=>filterMatches(found).filter(m=>m.state==='pre').length;
+ for(const date of dateQueries(previous,now))await query(date);
+ // ESPN itself publishes the season's scheduled match dates. Search those dates,
+ // in order, only when the normal window has fewer than five upcoming matches.
+ const limit=new Date(now);limit.setUTCFullYear(limit.getUTCFullYear()+1);
+ const validCalendar=Array.isArray(league.calendar)&&league.calendarType==='day'&&league.calendarIsWhitelist===true;
+ const calendar=validCalendar?league.calendar.filter(x=>typeof x==='string'&&Number.isFinite(Date.parse(x))).map(x=>day(new Date(x))):[];
+ const candidates=validCalendar?[...new Set(calendar)].filter(x=>x>=day(now)&&x<=day(limit)).sort():dateQueries(null,now,90);
+ for(const date of candidates){if(upcoming()>=5)break;if(!queried.has(date))await query(date);}
  for(const old of previous?.matches??[])if(!observed.has(old.id))throw new Error(`Previously tracked event ${old.id} absent from ESPN; status unverified`);
- return {league, matches:filterMatches(matches)};
+ const matches=filterMatches(found),count=matches.filter(m=>m.state==='pre').length;
+ return {league,matches,coverage:{minimum_upcoming:5,upcoming_count:count,upcoming_shortfall:Math.max(0,5-count),discovery:validCalendar?'ESPN season calendar':'90-day daily fallback',queried_dates:queried.size,searched_until:[...queried].sort().at(-1),calendar_end:league.calendarEndDate??null}};
 }
