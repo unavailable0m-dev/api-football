@@ -1,5 +1,7 @@
 {
-  "last_update": "2026-11-21T18:20:46.493Z",
+  "source": "ESPN",
+  "stale": false,
+  "last_update": "2026-11-21T18:36:29.336Z",
   "total_matches": 8,
   "total_leagues": 1,
   "league_id": "eng.1",
@@ -13,7 +15,7 @@
       "name": "Arsenal at Newcastle United",
       "status": "in",
       "state": "in",
-      "minute": "45'+2'",
+      "minute": "49'",
       "home_team": {
         "name": "Newcastle United",
         "abbreviation": "NEW",
@@ -197,6 +199,5 @@
       "venue": "Portman Road",
       "broadcast": null
     }
-  ],
-  "stale": false
+  ]
 }

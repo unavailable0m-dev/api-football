@@ -1,7 +1,7 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-21T18:28:33.233Z",
+  "last_update": "2026-11-21T18:36:29.336Z",
   "total_matches": 9,
   "total_leagues": 1,
   "league_id": "sco.1",
@@ -15,7 +15,7 @@
       "name": "Heart of Midlothian at Dundee",
       "status": "in",
       "state": "in",
-      "minute": "41'",
+      "minute": "45'+1'",
       "home_team": {
         "name": "Dundee",
         "abbreviation": "DUN",

@@ -1,5 +1,7 @@
 {
-  "last_update": "2026-11-21T18:20:46.493Z",
+  "source": "ESPN",
+  "stale": false,
+  "last_update": "2026-11-21T18:36:29.336Z",
   "total_matches": 9,
   "total_leagues": 1,
   "league_id": "ger.1",
@@ -13,7 +15,7 @@
       "name": "VfB Stuttgart at Schalke 04",
       "status": "in",
       "state": "in",
-      "minute": "45'+1'",
+      "minute": "48'",
       "home_team": {
         "name": "Schalke 04",
         "abbreviation": "S04",
@@ -221,6 +223,5 @@
       "venue": "MHPArena",
       "broadcast": null
     }
-  ],
-  "stale": false
+  ]
 }
