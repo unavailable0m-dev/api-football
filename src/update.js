@@ -17,7 +17,7 @@ export async function update({root=process.cwd(),now=new Date(),fetcher=fetchMat
      const identical=previous&&previous.league_name===result.league.name&&JSON.stringify(previous.matches)===JSON.stringify(result.matches);
      const current=identical?{...previous,stale:false}:leagueJSON(id,result.league.name,result.matches,timestamp);
      await saveChanged(file,current);leagues.push(current);
-     health.leagues[id]={status:'ok',last_success:timestamp,last_change:current.last_update,error:null};
+     health.leagues[id]={status:'ok',last_success:timestamp,last_change:current.last_update,error:null,...result.coverage};
    }catch(e){
      failures++;if(previous){const retained={...previous,stale:true};leagues.push(retained);await saveChanged(file,retained);}
      let oldHealth;try{oldHealth=await readJSON(join(dir,'health.json'));}catch{}
