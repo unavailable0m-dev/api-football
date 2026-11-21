@@ -1,36 +1,12 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-21T18:55:44.515Z",
-  "total_matches": 9,
+  "last_update": "2026-11-21T19:25:22.105Z",
+  "total_matches": 8,
   "total_leagues": 1,
   "league_id": "ger.1",
   "league_name": "German Bundesliga",
   "matches": [
-    {
-      "id": "401884729",
-      "league_id": "ger.1",
-      "league_name": "German Bundesliga",
-      "date": "2026-11-21T17:30Z",
-      "name": "VfB Stuttgart at Schalke 04",
-      "status": "in",
-      "state": "in",
-      "minute": "68'",
-      "home_team": {
-        "name": "Schalke 04",
-        "abbreviation": "S04",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png"
-      },
-      "away_team": {
-        "name": "VfB Stuttgart",
-        "abbreviation": "VFB",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png"
-      },
-      "home_score": 0,
-      "away_score": 0,
-      "venue": "Veltins Arena",
-      "broadcast": "Fandango"
-    },
     {
       "id": "401884733",
       "league_id": "ger.1",
