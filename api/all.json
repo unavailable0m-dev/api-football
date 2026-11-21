@@ -15,7 +15,7 @@
       "name": "AS Roma at Parma",
       "status": "in",
       "state": "in",
-      "minute": "80'",
+      "minute": "83'",
       "home_team": {
         "name": "Parma",
         "abbreviation": "PAR",
@@ -39,7 +39,7 @@
       "name": "Arsenal at Newcastle United",
       "status": "in",
       "state": "in",
-      "minute": "50'",
+      "minute": "52'",
       "home_team": {
         "name": "Newcastle United",
         "abbreviation": "NEW",
@@ -50,7 +50,7 @@
         "abbreviation": "ARS",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
       },
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 1,
       "venue": "St. James' Park",
       "broadcast": "USA Net, Tele"
@@ -63,7 +63,7 @@
       "name": "Real Betis at Sevilla",
       "status": "in",
       "state": "in",
-      "minute": "45'+1'",
+      "minute": "47'",
       "home_team": {
         "name": "Sevilla",
         "abbreviation": "SEV",
@@ -87,7 +87,7 @@
       "name": "VfB Stuttgart at Schalke 04",
       "status": "in",
       "state": "in",
-      "minute": "49'",
+      "minute": "51'",
       "home_team": {
         "name": "Schalke 04",
         "abbreviation": "S04",
@@ -135,7 +135,7 @@
       "name": "SC Cambuur at FC Utrecht",
       "status": "in",
       "state": "in",
-      "minute": "17'",
+      "minute": "19'",
       "home_team": {
         "name": "FC Utrecht",
         "abbreviation": "UTR",

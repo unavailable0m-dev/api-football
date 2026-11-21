@@ -1,5 +1,7 @@
 {
-  "last_update": "2026-11-21T18:20:46.493Z",
+  "source": "ESPN",
+  "stale": false,
+  "last_update": "2026-11-21T18:39:37.361Z",
   "total_matches": 12,
   "total_leagues": 1,
   "league_id": "esp.1",
@@ -13,7 +15,7 @@
       "name": "Real Betis at Sevilla",
       "status": "in",
       "state": "in",
-      "minute": "45'+1'",
+      "minute": "47'",
       "home_team": {
         "name": "Sevilla",
         "abbreviation": "SEV",
@@ -293,6 +295,5 @@
       "venue": "Santiago Bernabéu",
       "broadcast": "ESPN Deportes, ESPN+"
     }
-  ],
-  "stale": false
+  ]
 }
