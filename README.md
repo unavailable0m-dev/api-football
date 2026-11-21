@@ -2,7 +2,33 @@
 
 Dependency-free Node.js 22 project. ESPN is the only match-data source. GitHub Actions refreshes persisted JSON; dynamic API requests read those stored files, never ESPN.
 
-## Endpoints and deployment status
+## Published endpoints
+
+Verified anonymously on 2026-11-21. No token or sign-in required.
+
+| Route | Live URL |
+| --- | --- |
+| all | https://api-football-vbqq.netlify.app/api/all |
+| eng.1 | https://api-football-vbqq.netlify.app/api/eng.1 |
+| esp.1 | https://api-football-vbqq.netlify.app/api/esp.1 |
+| ita.1 | https://api-football-vbqq.netlify.app/api/ita.1 |
+| ger.1 | https://api-football-vbqq.netlify.app/api/ger.1 |
+| fra.1 | https://api-football-vbqq.netlify.app/api/fra.1 |
+| uefa.champions | https://api-football-vbqq.netlify.app/api/uefa.champions |
+| uefa.europa | https://api-football-vbqq.netlify.app/api/uefa.europa |
+| uefa.europa.conf | https://api-football-vbqq.netlify.app/api/uefa.europa.conf |
+| por.1 | https://api-football-vbqq.netlify.app/api/por.1 |
+| ned.1 | https://api-football-vbqq.netlify.app/api/ned.1 |
+| tur.1 | https://api-football-vbqq.netlify.app/api/tur.1 |
+| sco.1 | https://api-football-vbqq.netlify.app/api/sco.1 |
+
+Raw aggregate: https://raw.githubusercontent.com/unavailable0m-dev/api-football/refs/heads/main/api/all.json
+
+Refresh health: https://raw.githubusercontent.com/unavailable0m-dev/api-football/main/api/health.json
+
+The dynamic host is deployed on Netlify Free. Its routes read changing GitHub snapshots without redeploying for each data refresh. Deployment previews stay private; production is anonymously accessible.
+
+## Project layout
 
 - Stored aggregate: `api/all.json`
 - Stored league: `api/leagues/{league_id}.json`
@@ -10,7 +36,7 @@ Dependency-free Node.js 22 project. ESPN is the only match-data source. GitHub A
 - Dynamic aggregate: `/api/all`
 - Dynamic league: `/api/{league_id}`
 
-Use the Raw button on a JSON file in GitHub for its direct anonymous JSON URL. A public repository is required for anonymous Raw access. An actual serverless host or Node server is required for dynamic routes; a GitHub repository or Pages site alone does not execute them. Hosting URLs are not supplied until an actual deployment is verified.
+Use the Raw button on a JSON file in GitHub for its direct anonymous JSON URL. A public repository is required for anonymous Raw access. An actual serverless host or Node server is required for dynamic routes; a GitHub repository or Pages site alone does not execute them. The verified production links are listed above.
 
 Supported IDs, checked against real ESPN league metadata: `eng.1`, `esp.1`, `ita.1`, `ger.1`, `fra.1`, `uefa.champions`, `uefa.europa`, `uefa.europa.conf`, `por.1`, `ned.1`, `tur.1`, `sco.1`.
 
@@ -20,7 +46,7 @@ Supported IDs, checked against real ESPN league metadata: `eng.1`, `esp.1`, `ita
 2. Enable GitHub Actions with repository contents-write permission. Run **Update ESPN snapshots** manually once. No npm install is required.
 3. Inspect the run summary and `api/health.json`, and open `api/all.json` with GitHub's Raw button.
 4. For dynamic hosting, import the repository into a compatible Node/Vercel host. The project includes one `api/[league].js` function and `vercel.json`. No ESPN credential or alternative sports API is needed. Vercel Hobby is only appropriate for eligible personal noncommercial use. Review the host's free limits and do not activate a paid plan without approval.
-5. Check `/api/all`, each of the 12 league routes, and an invalid ID (must be 404) on the actual deployed host. Until this succeeds, dynamic hosting is not complete.
+5. Check `/api/all`, each of the 12 league routes, and an invalid ID (must be 404) on the actual deployed host. This production HTTP check has passed for all 13 routes and invalid IDs. Repeat it after deployment changes.
 
 ## Local operation
 
