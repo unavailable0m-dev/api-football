@@ -1,7 +1,7 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-21T18:39:37.361Z",
+  "last_update": "2026-11-21T18:55:44.515Z",
   "total_matches": 8,
   "total_leagues": 1,
   "league_id": "eng.1",
@@ -15,7 +15,7 @@
       "name": "Arsenal at Newcastle United",
       "status": "in",
       "state": "in",
-      "minute": "52'",
+      "minute": "68'",
       "home_team": {
         "name": "Newcastle United",
         "abbreviation": "NEW",
@@ -26,7 +26,7 @@
         "abbreviation": "ARS",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
       },
-      "home_score": 1,
+      "home_score": 2,
       "away_score": 1,
       "venue": "St. James' Park",
       "broadcast": "USA Net, Tele"

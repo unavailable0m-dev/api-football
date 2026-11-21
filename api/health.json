@@ -1,24 +1,11 @@
 {
-  "last_attempt": "2026-11-21T18:39:37.361Z",
+  "last_attempt": "2026-11-21T18:55:44.515Z",
   "source": "ESPN",
   "leagues": {
-    "eng.1": {
-      "status": "ok",
-      "last_success": "2026-11-21T18:39:37.361Z",
-      "last_change": "2026-11-21T18:39:37.361Z",
-      "error": null,
-      "minimum_upcoming": 5,
-      "upcoming_count": 7,
-      "upcoming_shortfall": 0,
-      "discovery": "ESPN season calendar",
-      "queried_dates": 9,
-      "searched_until": "20261128",
-      "calendar_end": "2027-06-01T03:59Z"
-    },
     "esp.1": {
       "status": "ok",
-      "last_success": "2026-11-21T18:39:37.361Z",
-      "last_change": "2026-11-21T18:39:37.361Z",
+      "last_success": "2026-11-21T18:55:44.515Z",
+      "last_change": "2026-11-21T18:55:44.515Z",
       "error": null,
       "minimum_upcoming": 5,
       "upcoming_count": 11,
@@ -30,8 +17,8 @@
     },
     "ita.1": {
       "status": "ok",
-      "last_success": "2026-11-21T18:39:37.361Z",
-      "last_change": "2026-11-21T18:39:37.361Z",
+      "last_success": "2026-11-21T18:55:44.515Z",
+      "last_change": "2026-11-21T18:55:44.515Z",
       "error": null,
       "minimum_upcoming": 5,
       "upcoming_count": 11,
@@ -41,22 +28,35 @@
       "searched_until": "20261128",
       "calendar_end": "2027-07-01T03:59Z"
     },
-    "uefa.champions": {
+    "eng.1": {
       "status": "ok",
-      "last_success": "2026-11-21T18:39:37.361Z",
-      "last_change": "2026-11-21T18:20:46.493Z",
+      "last_success": "2026-11-21T18:55:44.515Z",
+      "last_change": "2026-11-21T18:55:44.515Z",
       "error": null,
       "minimum_upcoming": 5,
-      "upcoming_count": 18,
+      "upcoming_count": 7,
       "upcoming_shortfall": 0,
-      "discovery": "90-day daily fallback",
+      "discovery": "ESPN season calendar",
+      "queried_dates": 9,
+      "searched_until": "20261128",
+      "calendar_end": "2027-06-01T03:59Z"
+    },
+    "ger.1": {
+      "status": "ok",
+      "last_success": "2026-11-21T18:55:44.515Z",
+      "last_change": "2026-11-21T18:55:44.515Z",
+      "error": null,
+      "minimum_upcoming": 5,
+      "upcoming_count": 8,
+      "upcoming_shortfall": 0,
+      "discovery": "ESPN season calendar",
       "queried_dates": 9,
       "searched_until": "20261128",
       "calendar_end": "2027-07-01T03:59Z"
     },
     "fra.1": {
       "status": "ok",
-      "last_success": "2026-11-21T18:39:37.361Z",
+      "last_success": "2026-11-21T18:55:44.515Z",
       "last_change": "2026-11-21T18:20:46.493Z",
       "error": null,
       "minimum_upcoming": 5,
@@ -67,22 +67,9 @@
       "searched_until": "20261128",
       "calendar_end": "2027-06-01T03:59Z"
     },
-    "ger.1": {
+    "uefa.champions": {
       "status": "ok",
-      "last_success": "2026-11-21T18:39:37.361Z",
-      "last_change": "2026-11-21T18:39:37.361Z",
-      "error": null,
-      "minimum_upcoming": 5,
-      "upcoming_count": 8,
-      "upcoming_shortfall": 0,
-      "discovery": "ESPN season calendar",
-      "queried_dates": 9,
-      "searched_until": "20261128",
-      "calendar_end": "2027-07-01T03:59Z"
-    },
-    "uefa.europa": {
-      "status": "ok",
-      "last_success": "2026-11-21T18:39:37.361Z",
+      "last_success": "2026-11-21T18:55:44.515Z",
       "last_change": "2026-11-21T18:20:46.493Z",
       "error": null,
       "minimum_upcoming": 5,
@@ -93,22 +80,22 @@
       "searched_until": "20261128",
       "calendar_end": "2027-07-01T03:59Z"
     },
-    "ned.1": {
+    "uefa.europa": {
       "status": "ok",
-      "last_success": "2026-11-21T18:39:37.361Z",
-      "last_change": "2026-11-21T18:39:37.361Z",
+      "last_success": "2026-11-21T18:55:44.515Z",
+      "last_change": "2026-11-21T18:20:46.493Z",
       "error": null,
       "minimum_upcoming": 5,
-      "upcoming_count": 10,
+      "upcoming_count": 18,
       "upcoming_shortfall": 0,
-      "discovery": "ESPN season calendar",
+      "discovery": "90-day daily fallback",
       "queried_dates": 9,
       "searched_until": "20261128",
-      "calendar_end": "2027-06-01T03:59Z"
+      "calendar_end": "2027-07-01T03:59Z"
     },
     "uefa.europa.conf": {
       "status": "ok",
-      "last_success": "2026-11-21T18:39:37.361Z",
+      "last_success": "2026-11-21T18:55:44.515Z",
       "last_change": "2026-11-21T18:20:46.493Z",
       "error": null,
       "minimum_upcoming": 5,
@@ -121,7 +108,7 @@
     },
     "por.1": {
       "status": "ok",
-      "last_success": "2026-11-21T18:39:37.361Z",
+      "last_success": "2026-11-21T18:55:44.515Z",
       "last_change": "2026-11-21T18:20:46.493Z",
       "error": null,
       "minimum_upcoming": 5,
@@ -132,13 +119,13 @@
       "searched_until": "20261128",
       "calendar_end": "2027-07-01T03:59Z"
     },
-    "sco.1": {
+    "ned.1": {
       "status": "ok",
-      "last_success": "2026-11-21T18:39:37.361Z",
-      "last_change": "2026-11-21T18:36:29.336Z",
+      "last_success": "2026-11-21T18:55:44.515Z",
+      "last_change": "2026-11-21T18:55:44.515Z",
       "error": null,
       "minimum_upcoming": 5,
-      "upcoming_count": 8,
+      "upcoming_count": 10,
       "upcoming_shortfall": 0,
       "discovery": "ESPN season calendar",
       "queried_dates": 9,
@@ -147,7 +134,7 @@
     },
     "tur.1": {
       "status": "ok",
-      "last_success": "2026-11-21T18:39:37.361Z",
+      "last_success": "2026-11-21T18:55:44.515Z",
       "last_change": "2026-11-21T18:20:46.493Z",
       "error": null,
       "minimum_upcoming": 5,
@@ -157,6 +144,19 @@
       "queried_dates": 9,
       "searched_until": "20261128",
       "calendar_end": "2027-07-01T03:59Z"
+    },
+    "sco.1": {
+      "status": "ok",
+      "last_success": "2026-11-21T18:55:44.515Z",
+      "last_change": "2026-11-21T18:55:44.515Z",
+      "error": null,
+      "minimum_upcoming": 5,
+      "upcoming_count": 8,
+      "upcoming_shortfall": 0,
+      "discovery": "ESPN season calendar",
+      "queried_dates": 9,
+      "searched_until": "20261128",
+      "calendar_end": "2027-06-01T03:59Z"
     }
   },
   "ok": true,
