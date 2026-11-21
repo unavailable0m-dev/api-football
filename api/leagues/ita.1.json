@@ -1,36 +1,12 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-21T21:35:40.860Z",
-  "total_matches": 11,
+  "last_update": "2026-11-21T22:18:25.173Z",
+  "total_matches": 10,
   "total_leagues": 1,
   "league_id": "ita.1",
   "league_name": "Italian Serie A",
   "matches": [
-    {
-      "id": "401875067",
-      "league_id": "ita.1",
-      "league_name": "Italian Serie A",
-      "date": "2026-11-21T19:45Z",
-      "name": "Torino at Napoli",
-      "status": "in",
-      "state": "in",
-      "minute": "90'+2'",
-      "home_team": {
-        "name": "Napoli",
-        "abbreviation": "NAP",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
-      },
-      "away_team": {
-        "name": "Torino",
-        "abbreviation": "TOR",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png"
-      },
-      "home_score": 1,
-      "away_score": 0,
-      "venue": "Stadio Diego Armando Maradona",
-      "broadcast": "Paramount+"
-    },
     {
       "id": "401875008",
       "league_id": "ita.1",

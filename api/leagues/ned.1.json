@@ -1,60 +1,12 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-21T21:35:40.860Z",
-  "total_matches": 10,
+  "last_update": "2026-11-21T22:18:25.173Z",
+  "total_matches": 8,
   "total_leagues": 1,
   "league_id": "ned.1",
   "league_name": "Dutch Eredivisie",
   "matches": [
-    {
-      "id": "401875539",
-      "league_id": "ned.1",
-      "league_name": "Dutch Eredivisie",
-      "date": "2026-11-21T20:00Z",
-      "name": "PEC Zwolle at Telstar",
-      "status": "in",
-      "state": "in",
-      "minute": "77'",
-      "home_team": {
-        "name": "Telstar",
-        "abbreviation": "TEL",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3735.png"
-      },
-      "away_team": {
-        "name": "PEC Zwolle",
-        "abbreviation": "PEC",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png"
-      },
-      "home_score": 1,
-      "away_score": 3,
-      "venue": "711 Stadion",
-      "broadcast": null
-    },
-    {
-      "id": "401875546",
-      "league_id": "ned.1",
-      "league_name": "Dutch Eredivisie",
-      "date": "2026-11-21T20:00Z",
-      "name": "Heerenveen at FC Groningen",
-      "status": "in",
-      "state": "in",
-      "minute": "76'",
-      "home_team": {
-        "name": "FC Groningen",
-        "abbreviation": "GRO",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/145.png"
-      },
-      "away_team": {
-        "name": "Heerenveen",
-        "abbreviation": "HEE",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/146.png"
-      },
-      "home_score": 1,
-      "away_score": 2,
-      "venue": "Euroborg",
-      "broadcast": null
-    },
     {
       "id": "401875545",
       "league_id": "ned.1",
