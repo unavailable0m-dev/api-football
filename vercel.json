@@ -1,0 +1,1 @@
+{"version":2,"functions":{"api/[league].js":{"maxDuration":30}},"rewrites":[{"source":"/api/:league","destination":"/api/[league]"}]}

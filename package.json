@@ -1,0 +1,1 @@
+{"name":"espn-football-api","version":"1.0.0","private":true,"type":"module","engines":{"node":">=22"},"scripts":{"update":"node src/update.js","test":"node --test tests/*.test.js","start":"node src/server.js"}}

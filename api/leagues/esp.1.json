@@ -1,0 +1,298 @@
+{
+  "last_update": "2026-11-21T18:20:46.493Z",
+  "total_matches": 12,
+  "total_leagues": 1,
+  "league_id": "esp.1",
+  "league_name": "Spanish LALIGA",
+  "matches": [
+    {
+      "id": "401882797",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-21T17:30Z",
+      "name": "Real Betis at Sevilla",
+      "status": "in",
+      "state": "in",
+      "minute": "45'+1'",
+      "home_team": {
+        "name": "Sevilla",
+        "abbreviation": "SEV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
+      },
+      "away_team": {
+        "name": "Real Betis",
+        "abbreviation": "BET",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
+      },
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "Ramón Sánchez Pizjuán Stadium",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401882798",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-21T20:00Z",
+      "name": "Celta Vigo at Real Madrid",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Real Madrid",
+        "abbreviation": "RMA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+      },
+      "away_team": {
+        "name": "Celta Vigo",
+        "abbreviation": "CEL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Santiago Bernabéu",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401882804",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-22T13:00Z",
+      "name": "Villarreal at Barcelona",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Barcelona",
+        "abbreviation": "BAR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
+      },
+      "away_team": {
+        "name": "Villarreal",
+        "abbreviation": "VIL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Spotify Camp Nou",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401882800",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-22T15:15Z",
+      "name": "Real Sociedad at Racing Santander",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Racing Santander",
+        "abbreviation": "RAC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png"
+      },
+      "away_team": {
+        "name": "Real Sociedad",
+        "abbreviation": "RSO",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "El Sardineros",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401882801",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-22T17:30Z",
+      "name": "Málaga at Osasuna",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Osasuna",
+        "abbreviation": "OSA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png"
+      },
+      "away_team": {
+        "name": "Málaga",
+        "abbreviation": "MCF",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "El Sadar",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401882803",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-22T20:00Z",
+      "name": "Atlético Madrid at Getafe",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Getafe",
+        "abbreviation": "GET",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png"
+      },
+      "away_team": {
+        "name": "Atlético Madrid",
+        "abbreviation": "ATM",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Estadio Coliseum",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401882802",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-23T20:00Z",
+      "name": "Elche at Levante",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Levante",
+        "abbreviation": "LEV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png"
+      },
+      "away_team": {
+        "name": "Elche",
+        "abbreviation": "ELC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Estadi Ciutat de València",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401882791",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-27T20:00Z",
+      "name": "Racing Santander at Levante",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Levante",
+        "abbreviation": "LEV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png"
+      },
+      "away_team": {
+        "name": "Racing Santander",
+        "abbreviation": "RAC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Estadi Ciutat de València",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401882796",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-28T13:00Z",
+      "name": "Rayo Vallecano at Real Betis",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Real Betis",
+        "abbreviation": "BET",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
+      },
+      "away_team": {
+        "name": "Rayo Vallecano",
+        "abbreviation": "RAY",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Estadio La Cartuja",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401882790",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-28T15:15Z",
+      "name": "Athletic Club at Málaga",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Málaga",
+        "abbreviation": "MCF",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png"
+      },
+      "away_team": {
+        "name": "Athletic Club",
+        "abbreviation": "ATH",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "La Rosaleda",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401882793",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-28T17:30Z",
+      "name": "Atlético Madrid at Elche",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Elche",
+        "abbreviation": "ELC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png"
+      },
+      "away_team": {
+        "name": "Atlético Madrid",
+        "abbreviation": "ATM",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Estadio Martínez Valero",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401882789",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-28T20:00Z",
+      "name": "Alavés at Real Madrid",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Real Madrid",
+        "abbreviation": "RMA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+      },
+      "away_team": {
+        "name": "Alavés",
+        "abbreviation": "ALA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Santiago Bernabéu",
+      "broadcast": "ESPN Deportes, ESPN+"
+    }
+  ],
+  "stale": false
+}

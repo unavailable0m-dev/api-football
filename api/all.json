@@ -1,0 +1,3419 @@
+{
+  "source": "ESPN",
+  "stale": false,
+  "last_update": "2026-11-21T18:20:46.493Z",
+  "total_matches": 142,
+  "total_leagues": 12,
+  "league_id": null,
+  "league_name": null,
+  "matches": [
+    {
+      "id": "401874967",
+      "league_id": "ita.1",
+      "league_name": "Italian Serie A",
+      "date": "2026-11-21T17:00Z",
+      "name": "AS Roma at Parma",
+      "status": "in",
+      "state": "in",
+      "minute": "70'",
+      "home_team": {
+        "name": "Parma",
+        "abbreviation": "PAR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png"
+      },
+      "away_team": {
+        "name": "AS Roma",
+        "abbreviation": "ROMA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
+      },
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "Ennio Tardini",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401879232",
+      "league_id": "eng.1",
+      "league_name": "English Premier League",
+      "date": "2026-11-21T17:30Z",
+      "name": "Arsenal at Newcastle United",
+      "status": "in",
+      "state": "in",
+      "minute": "45'+2'",
+      "home_team": {
+        "name": "Newcastle United",
+        "abbreviation": "NEW",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png"
+      },
+      "away_team": {
+        "name": "Arsenal",
+        "abbreviation": "ARS",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+      },
+      "home_score": 0,
+      "away_score": 1,
+      "venue": "St. James' Park",
+      "broadcast": "USA Net, Tele"
+    },
+    {
+      "id": "401882797",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-21T17:30Z",
+      "name": "Real Betis at Sevilla",
+      "status": "in",
+      "state": "in",
+      "minute": "45'+1'",
+      "home_team": {
+        "name": "Sevilla",
+        "abbreviation": "SEV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
+      },
+      "away_team": {
+        "name": "Real Betis",
+        "abbreviation": "BET",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
+      },
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "Ramón Sánchez Pizjuán Stadium",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401884729",
+      "league_id": "ger.1",
+      "league_name": "German Bundesliga",
+      "date": "2026-11-21T17:30Z",
+      "name": "VfB Stuttgart at Schalke 04",
+      "status": "in",
+      "state": "in",
+      "minute": "45'+1'",
+      "home_team": {
+        "name": "Schalke 04",
+        "abbreviation": "S04",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png"
+      },
+      "away_team": {
+        "name": "VfB Stuttgart",
+        "abbreviation": "VFB",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png"
+      },
+      "home_score": 0,
+      "away_score": 0,
+      "venue": "Veltins Arena",
+      "broadcast": "Fandango"
+    },
+    {
+      "id": "401875543",
+      "league_id": "ned.1",
+      "league_name": "Dutch Eredivisie",
+      "date": "2026-11-21T17:45Z",
+      "name": "Excelsior at Feyenoord Rotterdam",
+      "status": "in",
+      "state": "in",
+      "minute": "42'",
+      "home_team": {
+        "name": "Feyenoord Rotterdam",
+        "abbreviation": "FEY",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png"
+      },
+      "away_team": {
+        "name": "Excelsior",
+        "abbreviation": "EXC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2566.png"
+      },
+      "home_score": 1,
+      "away_score": 2,
+      "venue": "De Kuip",
+      "broadcast": null
+    },
+    {
+      "id": "401878337",
+      "league_id": "sco.1",
+      "league_name": "Scottish Premiership",
+      "date": "2026-11-21T17:45Z",
+      "name": "Heart of Midlothian at Dundee",
+      "status": "in",
+      "state": "in",
+      "minute": "39'",
+      "home_team": {
+        "name": "Dundee",
+        "abbreviation": "DUN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/261.png"
+      },
+      "away_team": {
+        "name": "Heart of Midlothian",
+        "abbreviation": "HOM",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/262.png"
+      },
+      "home_score": 0,
+      "away_score": 3,
+      "venue": "The Scot Foam Stadium at Dens Park",
+      "broadcast": null
+    },
+    {
+      "id": "401875067",
+      "league_id": "ita.1",
+      "league_name": "Italian Serie A",
+      "date": "2026-11-21T19:45Z",
+      "name": "Torino at Napoli",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Napoli",
+        "abbreviation": "NAP",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
+      },
+      "away_team": {
+        "name": "Torino",
+        "abbreviation": "TOR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stadio Diego Armando Maradona",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401876396",
+      "league_id": "fra.1",
+      "league_name": "French Ligue 1",
+      "date": "2026-11-21T19:45Z",
+      "name": "Brest at Strasbourg",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Strasbourg",
+        "abbreviation": "STR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png"
+      },
+      "away_team": {
+        "name": "Brest",
+        "abbreviation": "BRE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stade de la Meinau",
+      "broadcast": null
+    },
+    {
+      "id": "401876399",
+      "league_id": "fra.1",
+      "league_name": "French Ligue 1",
+      "date": "2026-11-21T19:45Z",
+      "name": "AJ Auxerre at AS Monaco",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "AS Monaco",
+        "abbreviation": "MON",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png"
+      },
+      "away_team": {
+        "name": "AJ Auxerre",
+        "abbreviation": "AUX",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stade Louis II",
+      "broadcast": "beIn Sports"
+    },
+    {
+      "id": "401876402",
+      "league_id": "fra.1",
+      "league_name": "French Ligue 1",
+      "date": "2026-11-21T19:45Z",
+      "name": "Lyon at Lille",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Lille",
+        "abbreviation": "LILL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png"
+      },
+      "away_team": {
+        "name": "Lyon",
+        "abbreviation": "LYON",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Decathlon Arena - Stade Pierre-Mauroy",
+      "broadcast": null
+    },
+    {
+      "id": "401876403",
+      "league_id": "fra.1",
+      "league_name": "French Ligue 1",
+      "date": "2026-11-21T19:45Z",
+      "name": "Toulouse at Lens",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Lens",
+        "abbreviation": "RCL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
+      },
+      "away_team": {
+        "name": "Toulouse",
+        "abbreviation": "TOU",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stade Bollaert-Delelis",
+      "broadcast": null
+    },
+    {
+      "id": "401875539",
+      "league_id": "ned.1",
+      "league_name": "Dutch Eredivisie",
+      "date": "2026-11-21T20:00Z",
+      "name": "PEC Zwolle at Telstar",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Telstar",
+        "abbreviation": "TEL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3735.png"
+      },
+      "away_team": {
+        "name": "PEC Zwolle",
+        "abbreviation": "PEC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "711 Stadion",
+      "broadcast": null
+    },
+    {
+      "id": "401875546",
+      "league_id": "ned.1",
+      "league_name": "Dutch Eredivisie",
+      "date": "2026-11-21T20:00Z",
+      "name": "Heerenveen at FC Groningen",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "FC Groningen",
+        "abbreviation": "GRO",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/145.png"
+      },
+      "away_team": {
+        "name": "Heerenveen",
+        "abbreviation": "HEE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/146.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Euroborg",
+      "broadcast": null
+    },
+    {
+      "id": "401878333",
+      "league_id": "sco.1",
+      "league_name": "Scottish Premiership",
+      "date": "2026-11-21T20:00Z",
+      "name": "Rangers at Motherwell",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Motherwell",
+        "abbreviation": "MOT",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/266.png"
+      },
+      "away_team": {
+        "name": "Rangers",
+        "abbreviation": "RAN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/257.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Fir Park",
+      "broadcast": null
+    },
+    {
+      "id": "401882798",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-21T20:00Z",
+      "name": "Celta Vigo at Real Madrid",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Real Madrid",
+        "abbreviation": "RMA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+      },
+      "away_team": {
+        "name": "Celta Vigo",
+        "abbreviation": "CEL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Santiago Bernabéu",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401888243",
+      "league_id": "tur.1",
+      "league_name": "Turkish Super Lig",
+      "date": "2026-11-22T10:30Z",
+      "name": "Goztepe at Erzurum BB",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Erzurum BB",
+        "abbreviation": "ERZ",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19267.png"
+      },
+      "away_team": {
+        "name": "Goztepe",
+        "abbreviation": "GOZ",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/789.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Erzurum Kazim Karabekir",
+      "broadcast": null
+    },
+    {
+      "id": "401875545",
+      "league_id": "ned.1",
+      "league_name": "Dutch Eredivisie",
+      "date": "2026-11-22T11:15Z",
+      "name": "Willem II at FC Twente",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "FC Twente",
+        "abbreviation": "TWE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png"
+      },
+      "away_team": {
+        "name": "Willem II",
+        "abbreviation": "WIL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/156.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "De Grolsch Veste",
+      "broadcast": null
+    },
+    {
+      "id": "401875008",
+      "league_id": "ita.1",
+      "league_name": "Italian Serie A",
+      "date": "2026-11-22T11:30Z",
+      "name": "Venezia at Juventus",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Juventus",
+        "abbreviation": "JUV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
+      },
+      "away_team": {
+        "name": "Venezia",
+        "abbreviation": "VEN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Allianz Stadium",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401882804",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-22T13:00Z",
+      "name": "Villarreal at Barcelona",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Barcelona",
+        "abbreviation": "BAR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
+      },
+      "away_team": {
+        "name": "Villarreal",
+        "abbreviation": "VIL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Spotify Camp Nou",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401888246",
+      "league_id": "tur.1",
+      "league_name": "Turkish Super Lig",
+      "date": "2026-11-22T13:00Z",
+      "name": "Besiktas at Konyaspor",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Konyaspor",
+        "abbreviation": "KNY",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7648.png"
+      },
+      "away_team": {
+        "name": "Besiktas",
+        "abbreviation": "BES",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Medas Konya Büyüksehir Stadyumu",
+      "broadcast": null
+    },
+    {
+      "id": "401888248",
+      "league_id": "tur.1",
+      "league_name": "Turkish Super Lig",
+      "date": "2026-11-22T13:00Z",
+      "name": "Alanyaspor at Kasimpasa",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Kasimpasa",
+        "abbreviation": "KAS",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png"
+      },
+      "away_team": {
+        "name": "Alanyaspor",
+        "abbreviation": "ALA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9078.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Recep Tayyip Erdogan Stadium",
+      "broadcast": null
+    },
+    {
+      "id": "401875540",
+      "league_id": "ned.1",
+      "league_name": "Dutch Eredivisie",
+      "date": "2026-11-22T13:30Z",
+      "name": "AZ Alkmaar at Sparta Rotterdam",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Sparta Rotterdam",
+        "abbreviation": "SPA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/151.png"
+      },
+      "away_team": {
+        "name": "AZ Alkmaar",
+        "abbreviation": "AZ",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Sparta-Stadion Het Kasteel",
+      "broadcast": null
+    },
+    {
+      "id": "401875547",
+      "league_id": "ned.1",
+      "league_name": "Dutch Eredivisie",
+      "date": "2026-11-22T13:30Z",
+      "name": "ADO Den Haag at Ajax Amsterdam",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Ajax Amsterdam",
+        "abbreviation": "AJA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png"
+      },
+      "away_team": {
+        "name": "ADO Den Haag",
+        "abbreviation": "ADO",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Johan Cruijff Arena",
+      "broadcast": null
+    },
+    {
+      "id": "401874960",
+      "league_id": "ita.1",
+      "league_name": "Italian Serie A",
+      "date": "2026-11-22T14:00Z",
+      "name": "Genoa at Sassuolo",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Sassuolo",
+        "abbreviation": "SAS",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png"
+      },
+      "away_team": {
+        "name": "Genoa",
+        "abbreviation": "GEN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Mapei Stadium",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401875047",
+      "league_id": "ita.1",
+      "league_name": "Italian Serie A",
+      "date": "2026-11-22T14:00Z",
+      "name": "Udinese at Bologna",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Bologna",
+        "abbreviation": "BOL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
+      },
+      "away_team": {
+        "name": "Udinese",
+        "abbreviation": "UDI",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Renato Dall'Ara",
+      "broadcast": "CBSSN, Paramount+"
+    },
+    {
+      "id": "401876397",
+      "league_id": "fra.1",
+      "league_name": "French Ligue 1",
+      "date": "2026-11-22T14:00Z",
+      "name": "Angers at Paris FC",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Paris FC",
+        "abbreviation": "PAR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png"
+      },
+      "away_team": {
+        "name": "Angers",
+        "abbreviation": "ANG",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stade Jean Bouin",
+      "broadcast": "beIn Sports"
+    },
+    {
+      "id": "401879234",
+      "league_id": "eng.1",
+      "league_name": "English Premier League",
+      "date": "2026-11-22T14:00Z",
+      "name": "Brighton & Hove Albion at Hull City",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Hull City",
+        "abbreviation": "HUL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png"
+      },
+      "away_team": {
+        "name": "Brighton & Hove Albion",
+        "abbreviation": "BHA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "The MKM Stadium",
+      "broadcast": "USA Net, Tele"
+    },
+    {
+      "id": "401884733",
+      "league_id": "ger.1",
+      "league_name": "German Bundesliga",
+      "date": "2026-11-22T14:30Z",
+      "name": "Mainz at FC Augsburg",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "FC Augsburg",
+        "abbreviation": "FCA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png"
+      },
+      "away_team": {
+        "name": "Mainz",
+        "abbreviation": "M05",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "WWK Arena",
+      "broadcast": "Fandango"
+    },
+    {
+      "id": "401882800",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-22T15:15Z",
+      "name": "Real Sociedad at Racing Santander",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Racing Santander",
+        "abbreviation": "RAC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png"
+      },
+      "away_team": {
+        "name": "Real Sociedad",
+        "abbreviation": "RSO",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "El Sardineros",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401875542",
+      "league_id": "ned.1",
+      "league_name": "Dutch Eredivisie",
+      "date": "2026-11-22T15:45Z",
+      "name": "Fortuna Sittard at Go Ahead Eagles",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Go Ahead Eagles",
+        "abbreviation": "GAE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3706.png"
+      },
+      "away_team": {
+        "name": "Fortuna Sittard",
+        "abbreviation": "FOR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "De Adelaarshorst",
+      "broadcast": null
+    },
+    {
+      "id": "401888249",
+      "league_id": "tur.1",
+      "league_name": "Turkish Super Lig",
+      "date": "2026-11-22T16:00Z",
+      "name": "Eyupspor at Trabzonspor",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Trabzonspor",
+        "abbreviation": "TRAB",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png"
+      },
+      "away_team": {
+        "name": "Eyupspor",
+        "abbreviation": "EYU",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20729.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Papara Park",
+      "broadcast": null
+    },
+    {
+      "id": "401876401",
+      "league_id": "fra.1",
+      "league_name": "French Ligue 1",
+      "date": "2026-11-22T16:15Z",
+      "name": "Stade Rennais at Lorient",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Lorient",
+        "abbreviation": "LOR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png"
+      },
+      "away_team": {
+        "name": "Stade Rennais",
+        "abbreviation": "REN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stade du Moustoir - Yves Allainmat",
+      "broadcast": "beIn Sports"
+    },
+    {
+      "id": "401878755",
+      "league_id": "eng.1",
+      "league_name": "English Premier League",
+      "date": "2026-11-22T16:30Z",
+      "name": "Manchester United at Liverpool",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Liverpool",
+        "abbreviation": "LIV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
+      },
+      "away_team": {
+        "name": "Manchester United",
+        "abbreviation": "MAN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Anfield",
+      "broadcast": "USA Net, Tele"
+    },
+    {
+      "id": "401884730",
+      "league_id": "ger.1",
+      "league_name": "German Bundesliga",
+      "date": "2026-11-22T16:30Z",
+      "name": "Hamburg SV at Werder Bremen",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Werder Bremen",
+        "abbreviation": "SVW",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png"
+      },
+      "away_team": {
+        "name": "Hamburg SV",
+        "abbreviation": "HSV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Weserstadion",
+      "broadcast": "Fandango"
+    },
+    {
+      "id": "401874989",
+      "league_id": "ita.1",
+      "league_name": "Italian Serie A",
+      "date": "2026-11-22T17:00Z",
+      "name": "Frosinone at AC Milan",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "AC Milan",
+        "abbreviation": "MIL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
+      },
+      "away_team": {
+        "name": "Frosinone",
+        "abbreviation": "FRO",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "San Siro",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401882801",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-22T17:30Z",
+      "name": "Málaga at Osasuna",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Osasuna",
+        "abbreviation": "OSA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png"
+      },
+      "away_team": {
+        "name": "Málaga",
+        "abbreviation": "MCF",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "El Sadar",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401875001",
+      "league_id": "ita.1",
+      "league_name": "Italian Serie A",
+      "date": "2026-11-22T19:45Z",
+      "name": "Internazionale at Atalanta",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Atalanta",
+        "abbreviation": "ATA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
+      },
+      "away_team": {
+        "name": "Internazionale",
+        "abbreviation": "INT",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "New Balance Arena",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401876400",
+      "league_id": "fra.1",
+      "league_name": "French Ligue 1",
+      "date": "2026-11-22T19:45Z",
+      "name": "Le Mans at Marseille",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Marseille",
+        "abbreviation": "OLM",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
+      },
+      "away_team": {
+        "name": "Le Mans",
+        "abbreviation": "MNS",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stade Vélodrome",
+      "broadcast": "beIn Sports"
+    },
+    {
+      "id": "401882803",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-22T20:00Z",
+      "name": "Atlético Madrid at Getafe",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Getafe",
+        "abbreviation": "GET",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png"
+      },
+      "away_team": {
+        "name": "Atlético Madrid",
+        "abbreviation": "ATM",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Estadio Coliseum",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401888370",
+      "league_id": "tur.1",
+      "league_name": "Turkish Super Lig",
+      "date": "2026-11-23T17:00Z",
+      "name": "Çorum FK at Istanbul Basaksehir",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Istanbul Basaksehir",
+        "abbreviation": "IBFK",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7914.png"
+      },
+      "away_team": {
+        "name": "Çorum FK",
+        "abbreviation": "COR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132334.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Basaksehir Fatih Terim Stadium",
+      "broadcast": null
+    },
+    {
+      "id": "401875009",
+      "league_id": "ita.1",
+      "league_name": "Italian Serie A",
+      "date": "2026-11-23T19:45Z",
+      "name": "Fiorentina at Monza",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Monza",
+        "abbreviation": "MON",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png"
+      },
+      "away_team": {
+        "name": "Fiorentina",
+        "abbreviation": "FIO",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "U-Power Stadium",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401879237",
+      "league_id": "eng.1",
+      "league_name": "English Premier League",
+      "date": "2026-11-23T20:00Z",
+      "name": "Everton at Brentford",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Brentford",
+        "abbreviation": "BRE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png"
+      },
+      "away_team": {
+        "name": "Everton",
+        "abbreviation": "EVE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Gtech Community Stadium",
+      "broadcast": "USA Net"
+    },
+    {
+      "id": "401882802",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-23T20:00Z",
+      "name": "Elche at Levante",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Levante",
+        "abbreviation": "LEV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png"
+      },
+      "away_team": {
+        "name": "Elche",
+        "abbreviation": "ELC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Estadi Ciutat de València",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401915300",
+      "league_id": "uefa.champions",
+      "league_name": "UEFA Champions League",
+      "date": "2026-11-24T17:45Z",
+      "name": "Aston Villa at Galatasaray",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Galatasaray",
+        "abbreviation": "GAL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/432.png"
+      },
+      "away_team": {
+        "name": "Aston Villa",
+        "abbreviation": "AVL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "RAMS Park",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915380",
+      "league_id": "uefa.champions",
+      "league_name": "UEFA Champions League",
+      "date": "2026-11-24T17:45Z",
+      "name": "LASK Linz at Bodo/Glimt",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Bodo/Glimt",
+        "abbreviation": "BODO",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2980.png"
+      },
+      "away_team": {
+        "name": "LASK Linz",
+        "abbreviation": "LAS",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Aspmyra Stadion",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401878348",
+      "league_id": "sco.1",
+      "league_name": "Scottish Premiership",
+      "date": "2026-11-24T19:45Z",
+      "name": "Dundee at Hibernian",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Hibernian",
+        "abbreviation": "HIBS",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/258.png"
+      },
+      "away_team": {
+        "name": "Dundee",
+        "abbreviation": "DUN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/261.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Easter Road",
+      "broadcast": null
+    },
+    {
+      "id": "401878345",
+      "league_id": "sco.1",
+      "league_name": "Scottish Premiership",
+      "date": "2026-11-24T20:00Z",
+      "name": "Aberdeen at Rangers",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Rangers",
+        "abbreviation": "RAN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/257.png"
+      },
+      "away_team": {
+        "name": "Aberdeen",
+        "abbreviation": "ABE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/263.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Ibrox Stadium",
+      "broadcast": null
+    },
+    {
+      "id": "401915294",
+      "league_id": "uefa.champions",
+      "league_name": "UEFA Champions League",
+      "date": "2026-11-24T20:00Z",
+      "name": "FC Porto at Feyenoord Rotterdam",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Feyenoord Rotterdam",
+        "abbreviation": "FEY",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png"
+      },
+      "away_team": {
+        "name": "FC Porto",
+        "abbreviation": "FCP",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "De Kuip",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915295",
+      "league_id": "uefa.champions",
+      "league_name": "UEFA Champions League",
+      "date": "2026-11-24T20:00Z",
+      "name": "Borussia Dortmund at Arsenal",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Arsenal",
+        "abbreviation": "ARS",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+      },
+      "away_team": {
+        "name": "Borussia Dortmund",
+        "abbreviation": "DOR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Emirates Stadium",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915296",
+      "league_id": "uefa.champions",
+      "league_name": "UEFA Champions League",
+      "date": "2026-11-24T20:00Z",
+      "name": "AEK Athens at Como",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Como",
+        "abbreviation": "COMO",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
+      },
+      "away_team": {
+        "name": "AEK Athens",
+        "abbreviation": "AEK",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Giuseppe Sinigaglia",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915297",
+      "league_id": "uefa.champions",
+      "league_name": "UEFA Champions League",
+      "date": "2026-11-24T20:00Z",
+      "name": "Real Betis at Slovan Bratislava",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Slovan Bratislava",
+        "abbreviation": "SLB",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/521.png"
+      },
+      "away_team": {
+        "name": "Real Betis",
+        "abbreviation": "BET",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Národny Futbalovy Stadión",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915298",
+      "league_id": "uefa.champions",
+      "league_name": "UEFA Champions League",
+      "date": "2026-11-24T20:00Z",
+      "name": "PSV Eindhoven at Real Madrid",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Real Madrid",
+        "abbreviation": "RMA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+      },
+      "away_team": {
+        "name": "PSV Eindhoven",
+        "abbreviation": "PSV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Santiago Bernabéu",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915299",
+      "league_id": "uefa.champions",
+      "league_name": "UEFA Champions League",
+      "date": "2026-11-24T20:00Z",
+      "name": "Lens at RB Leipzig",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "RB Leipzig",
+        "abbreviation": "RBL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11420.png"
+      },
+      "away_team": {
+        "name": "Lens",
+        "abbreviation": "RCL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Red Bull Arena",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915379",
+      "league_id": "uefa.champions",
+      "league_name": "UEFA Champions League",
+      "date": "2026-11-24T20:00Z",
+      "name": "Napoli at Manchester City",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Manchester City",
+        "abbreviation": "MNC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
+      },
+      "away_team": {
+        "name": "Napoli",
+        "abbreviation": "NAP",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Etihad Stadium",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915293",
+      "league_id": "uefa.champions",
+      "league_name": "UEFA Champions League",
+      "date": "2026-11-25T17:45Z",
+      "name": "Villarreal at Slavia Prague",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Slavia Prague",
+        "abbreviation": "SLP",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png"
+      },
+      "away_team": {
+        "name": "Villarreal",
+        "abbreviation": "VIL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Fortuna Arena",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915378",
+      "league_id": "uefa.champions",
+      "league_name": "UEFA Champions League",
+      "date": "2026-11-25T17:45Z",
+      "name": "Barcelona at Sabah FK",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Sabah FK",
+        "abbreviation": "SAB",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png"
+      },
+      "away_team": {
+        "name": "Barcelona",
+        "abbreviation": "BAR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Baku Olympic Stadium",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915291",
+      "league_id": "uefa.champions",
+      "league_name": "UEFA Champions League",
+      "date": "2026-11-25T20:00Z",
+      "name": "Viking FK at Atlético Madrid",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Atlético Madrid",
+        "abbreviation": "ATM",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
+      },
+      "away_team": {
+        "name": "Viking FK",
+        "abbreviation": "VFK",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Riyadh Air Metropolitano",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915292",
+      "league_id": "uefa.champions",
+      "league_name": "UEFA Champions League",
+      "date": "2026-11-25T20:00Z",
+      "name": "Liverpool at Club Brugge",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Club Brugge",
+        "abbreviation": "BRU",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png"
+      },
+      "away_team": {
+        "name": "Liverpool",
+        "abbreviation": "LIV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Jan Breydel Stadium",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915373",
+      "league_id": "uefa.champions",
+      "league_name": "UEFA Champions League",
+      "date": "2026-11-25T20:00Z",
+      "name": "Manchester United at Sporting CP",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Sporting CP",
+        "abbreviation": "SCP",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png"
+      },
+      "away_team": {
+        "name": "Manchester United",
+        "abbreviation": "MAN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Estádio José Alvalade",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915374",
+      "league_id": "uefa.champions",
+      "league_name": "UEFA Champions League",
+      "date": "2026-11-25T20:00Z",
+      "name": "AS Roma at Paris Saint-Germain",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Paris Saint-Germain",
+        "abbreviation": "PSG",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
+      },
+      "away_team": {
+        "name": "AS Roma",
+        "abbreviation": "ROMA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Parc des Princes",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915375",
+      "league_id": "uefa.champions",
+      "league_name": "UEFA Champions League",
+      "date": "2026-11-25T20:00Z",
+      "name": "Fenerbahce at Shakhtar Donetsk",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Shakhtar Donetsk",
+        "abbreviation": "SHK",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png"
+      },
+      "away_team": {
+        "name": "Fenerbahce",
+        "abbreviation": "FEN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stamford Bridge",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915376",
+      "league_id": "uefa.champions",
+      "league_name": "UEFA Champions League",
+      "date": "2026-11-25T20:00Z",
+      "name": "VfB Stuttgart at Internazionale",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Internazionale",
+        "abbreviation": "INT",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
+      },
+      "away_team": {
+        "name": "VfB Stuttgart",
+        "abbreviation": "VFB",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "San Siro",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915377",
+      "league_id": "uefa.champions",
+      "league_name": "UEFA Champions League",
+      "date": "2026-11-25T20:00Z",
+      "name": "Bayern Munich at Lille",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Lille",
+        "abbreviation": "LILL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png"
+      },
+      "away_team": {
+        "name": "Bayern Munich",
+        "abbreviation": "MUN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Decathlon Arena - Stade Pierre-Mauroy",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915816",
+      "league_id": "uefa.europa.conf",
+      "league_name": "UEFA Conference League",
+      "date": "2026-11-26T15:30Z",
+      "name": "Mjällby AIF at Kairat Almaty",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Kairat Almaty",
+        "abbreviation": "KAI",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2528.png"
+      },
+      "away_team": {
+        "name": "Mjällby AIF",
+        "abbreviation": "MJA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20301.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Almaty Ortalyk Stadium",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915506",
+      "league_id": "uefa.europa",
+      "league_name": "UEFA Europa League",
+      "date": "2026-11-26T17:45Z",
+      "name": "Hapoel Be'er at Besiktas",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Besiktas",
+        "abbreviation": "BES",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png"
+      },
+      "away_team": {
+        "name": "Hapoel Be'er",
+        "abbreviation": "HBE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Batumi Stadium (Adjarabet Arena)",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915507",
+      "league_id": "uefa.europa",
+      "league_name": "UEFA Europa League",
+      "date": "2026-11-26T17:45Z",
+      "name": "Levski Sofia at Marseille",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Marseille",
+        "abbreviation": "OLM",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
+      },
+      "away_team": {
+        "name": "Levski Sofia",
+        "abbreviation": "LEV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stade Vélodrome",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915508",
+      "league_id": "uefa.europa",
+      "league_name": "UEFA Europa League",
+      "date": "2026-11-26T17:45Z",
+      "name": "Lech Poznan at Union St.-Gilloise",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Union St.-Gilloise",
+        "abbreviation": "USG",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5807.png"
+      },
+      "away_team": {
+        "name": "Lech Poznan",
+        "abbreviation": "LECH",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2990.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "King Power at Den Dreef Stadion",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915517",
+      "league_id": "uefa.europa",
+      "league_name": "UEFA Europa League",
+      "date": "2026-11-26T17:45Z",
+      "name": "Bayer Leverkusen at Dinamo Zagreb",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Dinamo Zagreb",
+        "abbreviation": "DZG",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png"
+      },
+      "away_team": {
+        "name": "Bayer Leverkusen",
+        "abbreviation": "B04",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Maksimir Stadium",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915518",
+      "league_id": "uefa.europa",
+      "league_name": "UEFA Europa League",
+      "date": "2026-11-26T17:45Z",
+      "name": "Benfica at Viktoria Plzen",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Viktoria Plzen",
+        "abbreviation": "PLZ",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11706.png"
+      },
+      "away_team": {
+        "name": "Benfica",
+        "abbreviation": "SLB",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Doosan Arena",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915519",
+      "league_id": "uefa.europa",
+      "league_name": "UEFA Europa League",
+      "date": "2026-11-26T17:45Z",
+      "name": "AFC Bournemouth at Celta Vigo",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Celta Vigo",
+        "abbreviation": "CEL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
+      },
+      "away_team": {
+        "name": "AFC Bournemouth",
+        "abbreviation": "BOU",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Balaidos",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915520",
+      "league_id": "uefa.europa",
+      "league_name": "UEFA Europa League",
+      "date": "2026-11-26T17:45Z",
+      "name": "Ararat-Armenia at RB Salzburg",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "RB Salzburg",
+        "abbreviation": "SLZ",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2790.png"
+      },
+      "away_team": {
+        "name": "Ararat-Armenia",
+        "abbreviation": "ARA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Red Bull Arena Salzburg",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915521",
+      "league_id": "uefa.europa",
+      "league_name": "UEFA Europa League",
+      "date": "2026-11-26T17:45Z",
+      "name": "AC Milan at Olympiacos",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Olympiacos",
+        "abbreviation": "OLY",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png"
+      },
+      "away_team": {
+        "name": "AC Milan",
+        "abbreviation": "MIL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Georgios Karaiskakis Stadium",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915739",
+      "league_id": "uefa.europa.conf",
+      "league_name": "UEFA Conference League",
+      "date": "2026-11-26T17:45Z",
+      "name": "Riga FC at Kauno Zalgiris",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Kauno Zalgiris",
+        "abbreviation": "ZAL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20028.png"
+      },
+      "away_team": {
+        "name": "Riga FC",
+        "abbreviation": "RIG",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19246.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "S. Darius and S. Gireno Stadium",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915808",
+      "league_id": "uefa.europa.conf",
+      "league_name": "UEFA Conference League",
+      "date": "2026-11-26T17:45Z",
+      "name": "AGF at SK Brann",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "SK Brann",
+        "abbreviation": "SKBR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/620.png"
+      },
+      "away_team": {
+        "name": "AGF",
+        "abbreviation": "AGF",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7853.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Brann Stadium",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915809",
+      "league_id": "uefa.europa.conf",
+      "league_name": "UEFA Conference League",
+      "date": "2026-11-26T17:45Z",
+      "name": "FC Midtjylland at Pafos",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Pafos",
+        "abbreviation": "PAF",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22281.png"
+      },
+      "away_team": {
+        "name": "FC Midtjylland",
+        "abbreviation": "MID",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/572.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Alphamega Stadium",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915810",
+      "league_id": "uefa.europa.conf",
+      "league_name": "UEFA Conference League",
+      "date": "2026-11-26T17:45Z",
+      "name": "Lincoln Red Imps at Egnatia",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Egnatia",
+        "abbreviation": "EGN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21943.png"
+      },
+      "away_team": {
+        "name": "Lincoln Red Imps",
+        "abbreviation": "LRI",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17856.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Air Albania Stadium",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915811",
+      "league_id": "uefa.europa.conf",
+      "league_name": "UEFA Conference League",
+      "date": "2026-11-26T17:45Z",
+      "name": "AS Monaco at Heart of Midlothian",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Heart of Midlothian",
+        "abbreviation": "HOM",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/262.png"
+      },
+      "away_team": {
+        "name": "AS Monaco",
+        "abbreviation": "MON",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Tynecastle Park",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915812",
+      "league_id": "uefa.europa.conf",
+      "league_name": "UEFA Conference League",
+      "date": "2026-11-26T17:45Z",
+      "name": "FC Lugano at Jablonec",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Jablonec",
+        "abbreviation": "JABL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7922.png"
+      },
+      "away_team": {
+        "name": "FC Lugano",
+        "abbreviation": "LUG",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7672.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stadion Strelnice",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915813",
+      "league_id": "uefa.europa.conf",
+      "league_name": "UEFA Conference League",
+      "date": "2026-11-26T17:45Z",
+      "name": "Getafe at Iberia 1999",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Iberia 1999",
+        "abbreviation": "IBE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20025.png"
+      },
+      "away_team": {
+        "name": "Getafe",
+        "abbreviation": "GET",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Mikheil Meskhi Stadioni",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915814",
+      "league_id": "uefa.europa.conf",
+      "league_name": "UEFA Conference League",
+      "date": "2026-11-26T17:45Z",
+      "name": "CSU Craiova at Brighton & Hove Albion",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Brighton & Hove Albion",
+        "abbreviation": "BHA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
+      },
+      "away_team": {
+        "name": "CSU Craiova",
+        "abbreviation": "UCRA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8089.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "American Express Stadium",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915815",
+      "league_id": "uefa.europa.conf",
+      "league_name": "UEFA Conference League",
+      "date": "2026-11-26T17:45Z",
+      "name": "FC Thun at Ajax Amsterdam",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Ajax Amsterdam",
+        "abbreviation": "AJA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png"
+      },
+      "away_team": {
+        "name": "FC Thun",
+        "abbreviation": "THUN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3024.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Johan Cruijff Arena",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915501",
+      "league_id": "uefa.europa",
+      "league_name": "UEFA Europa League",
+      "date": "2026-11-26T20:00Z",
+      "name": "Lillestrom at Lyon",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Lyon",
+        "abbreviation": "LYON",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
+      },
+      "away_team": {
+        "name": "Lillestrom",
+        "abbreviation": "LSK",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/987.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Groupama Stadium",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915502",
+      "league_id": "uefa.europa",
+      "league_name": "UEFA Europa League",
+      "date": "2026-11-26T20:00Z",
+      "name": "Omonia Nicosia at Juventus",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Juventus",
+        "abbreviation": "JUV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
+      },
+      "away_team": {
+        "name": "Omonia Nicosia",
+        "abbreviation": "OMON",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/617.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Allianz Stadium",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915503",
+      "league_id": "uefa.europa",
+      "league_name": "UEFA Europa League",
+      "date": "2026-11-26T20:00Z",
+      "name": "Anderlecht at OFI Crete",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "OFI Crete",
+        "abbreviation": "OFI",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1010.png"
+      },
+      "away_team": {
+        "name": "Anderlecht",
+        "abbreviation": "AND",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/441.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Pankritio Stadium",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915504",
+      "league_id": "uefa.europa",
+      "league_name": "UEFA Europa League",
+      "date": "2026-11-26T20:00Z",
+      "name": "Real Sociedad at Crystal Palace",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Crystal Palace",
+        "abbreviation": "CRY",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
+      },
+      "away_team": {
+        "name": "Real Sociedad",
+        "abbreviation": "RSO",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Selhurst Park",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915505",
+      "league_id": "uefa.europa",
+      "league_name": "UEFA Europa League",
+      "date": "2026-11-26T20:00Z",
+      "name": "Stade Rennais at NEC Nijmegen",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "NEC Nijmegen",
+        "abbreviation": "NEC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
+      },
+      "away_team": {
+        "name": "Stade Rennais",
+        "abbreviation": "REN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Goffertstadion",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915512",
+      "league_id": "uefa.europa",
+      "league_name": "UEFA Europa League",
+      "date": "2026-11-26T20:00Z",
+      "name": "Celtic at Torreense",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Torreense",
+        "abbreviation": "TOR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21615.png"
+      },
+      "away_team": {
+        "name": "Celtic",
+        "abbreviation": "CEL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Estádio Dr. Magalhaes Pessoa",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915513",
+      "league_id": "uefa.europa",
+      "league_name": "UEFA Europa League",
+      "date": "2026-11-26T20:00Z",
+      "name": "Jagiellonia Bialystok at Sunderland",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Sunderland",
+        "abbreviation": "SUN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
+      },
+      "away_team": {
+        "name": "Jagiellonia Bialystok",
+        "abbreviation": "JAG",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11505.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stadium of Light",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915514",
+      "league_id": "uefa.europa",
+      "league_name": "UEFA Europa League",
+      "date": "2026-11-26T20:00Z",
+      "name": "AZ Alkmaar at Sparta Prague",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Sparta Prague",
+        "abbreviation": "SPP",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png"
+      },
+      "away_team": {
+        "name": "AZ Alkmaar",
+        "abbreviation": "AZ",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Generali Arena",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915515",
+      "league_id": "uefa.europa",
+      "league_name": "UEFA Europa League",
+      "date": "2026-11-26T20:00Z",
+      "name": "SK Sturm Graz at TSG Hoffenheim",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "TSG Hoffenheim",
+        "abbreviation": "TSG",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png"
+      },
+      "away_team": {
+        "name": "SK Sturm Graz",
+        "abbreviation": "STG",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "PreZero Arena",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915516",
+      "league_id": "uefa.europa",
+      "league_name": "UEFA Europa League",
+      "date": "2026-11-26T20:00Z",
+      "name": "NK Celje at Ferencvaros",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Ferencvaros",
+        "abbreviation": "FER",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/622.png"
+      },
+      "away_team": {
+        "name": "NK Celje",
+        "abbreviation": "NKC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Groupama Arena",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915738",
+      "league_id": "uefa.europa.conf",
+      "league_name": "UEFA Conference League",
+      "date": "2026-11-26T20:00Z",
+      "name": "F.C. København at Inter D'Escaldes",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Inter D'Escaldes",
+        "abbreviation": "IDE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20703.png"
+      },
+      "away_team": {
+        "name": "F.C. København",
+        "abbreviation": "KBH",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/909.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Estadi de la FAF d'Encamp",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915801",
+      "league_id": "uefa.europa.conf",
+      "league_name": "UEFA Conference League",
+      "date": "2026-11-26T20:00Z",
+      "name": "FC Twente at SC Freiburg",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "SC Freiburg",
+        "abbreviation": "SCF",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png"
+      },
+      "away_team": {
+        "name": "FC Twente",
+        "abbreviation": "TWE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Europa-Park Stadion",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915802",
+      "league_id": "uefa.europa.conf",
+      "league_name": "UEFA Conference League",
+      "date": "2026-11-26T20:00Z",
+      "name": "KuPS Kuopio at Braga",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Braga",
+        "abbreviation": "SCB",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2994.png"
+      },
+      "away_team": {
+        "name": "KuPS Kuopio",
+        "abbreviation": "KUPS",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/8169.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Estádio Municipal de Braga",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915803",
+      "league_id": "uefa.europa.conf",
+      "league_name": "UEFA Conference League",
+      "date": "2026-11-26T20:00Z",
+      "name": "Trabzonspor at CSKA Sofia",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "CSKA Sofia",
+        "abbreviation": "CSKA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10834.png"
+      },
+      "away_team": {
+        "name": "Trabzonspor",
+        "abbreviation": "TRAB",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Balgarska Armia Stadium",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915804",
+      "league_id": "uefa.europa.conf",
+      "league_name": "UEFA Conference League",
+      "date": "2026-11-26T20:00Z",
+      "name": "Red Star Belgrade at KAA Gent",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "KAA Gent",
+        "abbreviation": "GENT",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3611.png"
+      },
+      "away_team": {
+        "name": "Red Star Belgrade",
+        "abbreviation": "RSB",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2290.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Ghelamco Arena",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915805",
+      "league_id": "uefa.europa.conf",
+      "league_name": "UEFA Conference League",
+      "date": "2026-11-26T20:00Z",
+      "name": "Sint-Truidense at Hajduk Split",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Hajduk Split",
+        "abbreviation": "HAJ",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/489.png"
+      },
+      "away_team": {
+        "name": "Sint-Truidense",
+        "abbreviation": "STVV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/936.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stadion Poljud",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915806",
+      "league_id": "uefa.europa.conf",
+      "league_name": "UEFA Conference League",
+      "date": "2026-11-26T20:00Z",
+      "name": "Atalanta at Borac Banja Luka",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Borac Banja Luka",
+        "abbreviation": "BBL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20710.png"
+      },
+      "away_team": {
+        "name": "Atalanta",
+        "abbreviation": "ATA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Gradski Stadion Banja Luka",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401915807",
+      "league_id": "uefa.europa.conf",
+      "league_name": "UEFA Conference League",
+      "date": "2026-11-26T20:00Z",
+      "name": "Panathinaikos at FC Nordsjælland",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "FC Nordsjælland",
+        "abbreviation": "FCN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3101.png"
+      },
+      "away_team": {
+        "name": "Panathinaikos",
+        "abbreviation": "PAO",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/443.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Right to Dream Park",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401888240",
+      "league_id": "tur.1",
+      "league_name": "Turkish Super Lig",
+      "date": "2026-11-27T17:00Z",
+      "name": "Kasimpasa at Caykur Rizespor",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Caykur Rizespor",
+        "abbreviation": "CAY",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7656.png"
+      },
+      "away_team": {
+        "name": "Kasimpasa",
+        "abbreviation": "KAS",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Estadio Caykur Didi",
+      "broadcast": null
+    },
+    {
+      "id": "401888241",
+      "league_id": "tur.1",
+      "league_name": "Turkish Super Lig",
+      "date": "2026-11-27T17:00Z",
+      "name": "Konyaspor at Alanyaspor",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Alanyaspor",
+        "abbreviation": "ALA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9078.png"
+      },
+      "away_team": {
+        "name": "Konyaspor",
+        "abbreviation": "KNY",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7648.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Kirbiyik Holding Stadyumu",
+      "broadcast": null
+    },
+    {
+      "id": "401875536",
+      "league_id": "ned.1",
+      "league_name": "Dutch Eredivisie",
+      "date": "2026-11-27T19:00Z",
+      "name": "Willem II at FC Groningen",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "FC Groningen",
+        "abbreviation": "GRO",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/145.png"
+      },
+      "away_team": {
+        "name": "Willem II",
+        "abbreviation": "WIL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/156.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Euroborg",
+      "broadcast": null
+    },
+    {
+      "id": "401884720",
+      "league_id": "ger.1",
+      "league_name": "German Bundesliga",
+      "date": "2026-11-27T19:30Z",
+      "name": "Borussia Mönchengladbach at Werder Bremen",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Werder Bremen",
+        "abbreviation": "SVW",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png"
+      },
+      "away_team": {
+        "name": "Borussia Mönchengladbach",
+        "abbreviation": "BMG",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Weserstadion",
+      "broadcast": null
+    },
+    {
+      "id": "401875004",
+      "league_id": "ita.1",
+      "league_name": "Italian Serie A",
+      "date": "2026-11-27T19:45Z",
+      "name": "Bologna at Venezia",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Venezia",
+        "abbreviation": "VEN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png"
+      },
+      "away_team": {
+        "name": "Bologna",
+        "abbreviation": "BOL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stadio Pier Luigi Penzo",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401876392",
+      "league_id": "fra.1",
+      "league_name": "French Ligue 1",
+      "date": "2026-11-27T19:45Z",
+      "name": "Paris FC at Brest",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Brest",
+        "abbreviation": "BRE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png"
+      },
+      "away_team": {
+        "name": "Paris FC",
+        "abbreviation": "PAR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stade Francis-Le Blé",
+      "broadcast": null
+    },
+    {
+      "id": "401879225",
+      "league_id": "eng.1",
+      "league_name": "English Premier League",
+      "date": "2026-11-27T20:00Z",
+      "name": "Chelsea at Nottingham Forest",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Nottingham Forest",
+        "abbreviation": "NFO",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png"
+      },
+      "away_team": {
+        "name": "Chelsea",
+        "abbreviation": "CHE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "The City Ground",
+      "broadcast": null
+    },
+    {
+      "id": "401882791",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-27T20:00Z",
+      "name": "Racing Santander at Levante",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Levante",
+        "abbreviation": "LEV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png"
+      },
+      "away_team": {
+        "name": "Racing Santander",
+        "abbreviation": "RAC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Estadi Ciutat de València",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401885389",
+      "league_id": "por.1",
+      "league_name": "Portuguese Primeira Liga",
+      "date": "2026-11-27T20:15Z",
+      "name": "C.D. Nacional at Maritimo",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Maritimo",
+        "abbreviation": "MAR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/552.png"
+      },
+      "away_team": {
+        "name": "C.D. Nacional",
+        "abbreviation": "CDN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3472.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Estádio do Marítimo",
+      "broadcast": null
+    },
+    {
+      "id": "401882796",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-28T13:00Z",
+      "name": "Rayo Vallecano at Real Betis",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Real Betis",
+        "abbreviation": "BET",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
+      },
+      "away_team": {
+        "name": "Rayo Vallecano",
+        "abbreviation": "RAY",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Estadio La Cartuja",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401888236",
+      "league_id": "tur.1",
+      "league_name": "Turkish Super Lig",
+      "date": "2026-11-28T13:00Z",
+      "name": "Genclerbirligi at Samsunspor",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Samsunspor",
+        "abbreviation": "SAM",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11429.png"
+      },
+      "away_team": {
+        "name": "Genclerbirligi",
+        "abbreviation": "GEN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/996.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Samsun 19 Mayis Stadium",
+      "broadcast": null
+    },
+    {
+      "id": "401875081",
+      "league_id": "ita.1",
+      "league_name": "Italian Serie A",
+      "date": "2026-11-28T14:00Z",
+      "name": "Parma at Frosinone",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Frosinone",
+        "abbreviation": "FRO",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
+      },
+      "away_team": {
+        "name": "Parma",
+        "abbreviation": "PAR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stadio Benito Stirpe",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401884719",
+      "league_id": "ger.1",
+      "league_name": "German Bundesliga",
+      "date": "2026-11-28T14:30Z",
+      "name": "Schalke 04 at SC Paderborn 07",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "SC Paderborn 07",
+        "abbreviation": "SCP",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png"
+      },
+      "away_team": {
+        "name": "Schalke 04",
+        "abbreviation": "S04",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Home Deluxe Arena",
+      "broadcast": null
+    },
+    {
+      "id": "401884721",
+      "league_id": "ger.1",
+      "league_name": "German Bundesliga",
+      "date": "2026-11-28T14:30Z",
+      "name": "SV Elversberg at FC Cologne",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "FC Cologne",
+        "abbreviation": "KOE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png"
+      },
+      "away_team": {
+        "name": "SV Elversberg",
+        "abbreviation": "ELV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "RheinEnergieStadion",
+      "broadcast": null
+    },
+    {
+      "id": "401884722",
+      "league_id": "ger.1",
+      "league_name": "German Bundesliga",
+      "date": "2026-11-28T14:30Z",
+      "name": "Bayern Munich at Hamburg SV",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Hamburg SV",
+        "abbreviation": "HSV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png"
+      },
+      "away_team": {
+        "name": "Bayern Munich",
+        "abbreviation": "MUN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Volksparkstadion",
+      "broadcast": null
+    },
+    {
+      "id": "401884723",
+      "league_id": "ger.1",
+      "league_name": "German Bundesliga",
+      "date": "2026-11-28T14:30Z",
+      "name": "1. FC Union Berlin at Mainz",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Mainz",
+        "abbreviation": "M05",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png"
+      },
+      "away_team": {
+        "name": "1. FC Union Berlin",
+        "abbreviation": "FCU",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "MEWA ARENA",
+      "broadcast": null
+    },
+    {
+      "id": "401878327",
+      "league_id": "sco.1",
+      "league_name": "Scottish Premiership",
+      "date": "2026-11-28T15:00Z",
+      "name": "Kilmarnock at St Mirren",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "St Mirren",
+        "abbreviation": "STM",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/250.png"
+      },
+      "away_team": {
+        "name": "Kilmarnock",
+        "abbreviation": "KIL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/260.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "The SMISA Stadium",
+      "broadcast": null
+    },
+    {
+      "id": "401878328",
+      "league_id": "sco.1",
+      "league_name": "Scottish Premiership",
+      "date": "2026-11-28T15:00Z",
+      "name": "Falkirk at Rangers",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Rangers",
+        "abbreviation": "RAN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/257.png"
+      },
+      "away_team": {
+        "name": "Falkirk",
+        "abbreviation": "FALK",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/254.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Ibrox Stadium",
+      "broadcast": null
+    },
+    {
+      "id": "401878331",
+      "league_id": "sco.1",
+      "league_name": "Scottish Premiership",
+      "date": "2026-11-28T15:00Z",
+      "name": "St Johnstone at Dundee United",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Dundee United",
+        "abbreviation": "DUN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/264.png"
+      },
+      "away_team": {
+        "name": "St Johnstone",
+        "abbreviation": "STJ",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/267.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Tannadice Park",
+      "broadcast": null
+    },
+    {
+      "id": "401878332",
+      "league_id": "sco.1",
+      "league_name": "Scottish Premiership",
+      "date": "2026-11-28T15:00Z",
+      "name": "Dundee at Aberdeen",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Aberdeen",
+        "abbreviation": "ABE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/263.png"
+      },
+      "away_team": {
+        "name": "Dundee",
+        "abbreviation": "DUN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/261.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Pittodrie Stadium",
+      "broadcast": null
+    },
+    {
+      "id": "401879226",
+      "league_id": "eng.1",
+      "league_name": "English Premier League",
+      "date": "2026-11-28T15:00Z",
+      "name": "Brentford at Manchester United",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Manchester United",
+        "abbreviation": "MAN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
+      },
+      "away_team": {
+        "name": "Brentford",
+        "abbreviation": "BRE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Old Trafford",
+      "broadcast": null
+    },
+    {
+      "id": "401879227",
+      "league_id": "eng.1",
+      "league_name": "English Premier League",
+      "date": "2026-11-28T15:00Z",
+      "name": "Coventry City at Leeds United",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Leeds United",
+        "abbreviation": "LEE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png"
+      },
+      "away_team": {
+        "name": "Coventry City",
+        "abbreviation": "COV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Elland Road",
+      "broadcast": null
+    },
+    {
+      "id": "401882790",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-28T15:15Z",
+      "name": "Athletic Club at Málaga",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Málaga",
+        "abbreviation": "MCF",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png"
+      },
+      "away_team": {
+        "name": "Athletic Club",
+        "abbreviation": "ATH",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "La Rosaleda",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401875537",
+      "league_id": "ned.1",
+      "league_name": "Dutch Eredivisie",
+      "date": "2026-11-28T15:30Z",
+      "name": "Telstar at Excelsior",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Excelsior",
+        "abbreviation": "EXC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2566.png"
+      },
+      "away_team": {
+        "name": "Telstar",
+        "abbreviation": "TEL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3735.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stadion Woudestein",
+      "broadcast": null
+    },
+    {
+      "id": "401885388",
+      "league_id": "por.1",
+      "league_name": "Portuguese Primeira Liga",
+      "date": "2026-11-28T15:30Z",
+      "name": "Santa Clara at Moreirense",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Moreirense",
+        "abbreviation": "MFC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3696.png"
+      },
+      "away_team": {
+        "name": "Santa Clara",
+        "abbreviation": "CDSC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12215.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Estádio Comendador Joaquim de Almeida Freitas",
+      "broadcast": null
+    },
+    {
+      "id": "401885392",
+      "league_id": "por.1",
+      "league_name": "Portuguese Primeira Liga",
+      "date": "2026-11-28T15:30Z",
+      "name": "Rio Ave at Arouca",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Arouca",
+        "abbreviation": "FCA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/15784.png"
+      },
+      "away_team": {
+        "name": "Rio Ave",
+        "abbreviation": "RAFC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3822.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Estádio Municipal de Arouca",
+      "broadcast": null
+    },
+    {
+      "id": "401888368",
+      "league_id": "tur.1",
+      "league_name": "Turkish Super Lig",
+      "date": "2026-11-28T16:00Z",
+      "name": "Amed SFK at Gaziantep FK",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Gaziantep FK",
+        "abbreviation": "GAZ",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20070.png"
+      },
+      "away_team": {
+        "name": "Amed SFK",
+        "abbreviation": "AMED",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132335.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Gaziantep Stadium",
+      "broadcast": null
+    },
+    {
+      "id": "401876394",
+      "league_id": "fra.1",
+      "league_name": "French Ligue 1",
+      "date": "2026-11-28T16:15Z",
+      "name": "Lens at Angers",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Angers",
+        "abbreviation": "ANG",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
+      },
+      "away_team": {
+        "name": "Lens",
+        "abbreviation": "RCL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stade Raymond Kopa",
+      "broadcast": null
+    },
+    {
+      "id": "401874826",
+      "league_id": "ita.1",
+      "league_name": "Italian Serie A",
+      "date": "2026-11-28T17:00Z",
+      "name": "Lazio at Torino",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Torino",
+        "abbreviation": "TOR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png"
+      },
+      "away_team": {
+        "name": "Lazio",
+        "abbreviation": "LAZ",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stadio Olimpico Grande Torino",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401878752",
+      "league_id": "eng.1",
+      "league_name": "English Premier League",
+      "date": "2026-11-28T17:30Z",
+      "name": "Aston Villa at Ipswich Town",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Ipswich Town",
+        "abbreviation": "IPS",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png"
+      },
+      "away_team": {
+        "name": "Aston Villa",
+        "abbreviation": "AVL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Portman Road",
+      "broadcast": null
+    },
+    {
+      "id": "401882793",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-28T17:30Z",
+      "name": "Atlético Madrid at Elche",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Elche",
+        "abbreviation": "ELC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png"
+      },
+      "away_team": {
+        "name": "Atlético Madrid",
+        "abbreviation": "ATM",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Estadio Martínez Valero",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401884726",
+      "league_id": "ger.1",
+      "league_name": "German Bundesliga",
+      "date": "2026-11-28T17:30Z",
+      "name": "Eintracht Frankfurt at VfB Stuttgart",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "VfB Stuttgart",
+        "abbreviation": "VFB",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png"
+      },
+      "away_team": {
+        "name": "Eintracht Frankfurt",
+        "abbreviation": "SGE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "MHPArena",
+      "broadcast": null
+    },
+    {
+      "id": "401875531",
+      "league_id": "ned.1",
+      "league_name": "Dutch Eredivisie",
+      "date": "2026-11-28T17:45Z",
+      "name": "Go Ahead Eagles at PSV Eindhoven",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "PSV Eindhoven",
+        "abbreviation": "PSV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png"
+      },
+      "away_team": {
+        "name": "Go Ahead Eagles",
+        "abbreviation": "GAE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3706.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Philips Stadion",
+      "broadcast": null
+    },
+    {
+      "id": "401878329",
+      "league_id": "sco.1",
+      "league_name": "Scottish Premiership",
+      "date": "2026-11-28T17:45Z",
+      "name": "Hibernian at Motherwell",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Motherwell",
+        "abbreviation": "MOT",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/266.png"
+      },
+      "away_team": {
+        "name": "Hibernian",
+        "abbreviation": "HIBS",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/258.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Fir Park",
+      "broadcast": null
+    },
+    {
+      "id": "401885393",
+      "league_id": "por.1",
+      "league_name": "Portuguese Primeira Liga",
+      "date": "2026-11-28T18:00Z",
+      "name": "Alverca at Académico de Viseu",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Académico de Viseu",
+        "abbreviation": "ACV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21607.png"
+      },
+      "away_team": {
+        "name": "Alverca",
+        "abbreviation": "ALV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21613.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Estádio do Fontelo",
+      "broadcast": null
+    },
+    {
+      "id": "401874977",
+      "league_id": "ita.1",
+      "league_name": "Italian Serie A",
+      "date": "2026-11-28T19:45Z",
+      "name": "Genoa at Internazionale",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Internazionale",
+        "abbreviation": "INT",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
+      },
+      "away_team": {
+        "name": "Genoa",
+        "abbreviation": "GEN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "San Siro",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401876387",
+      "league_id": "fra.1",
+      "league_name": "French Ligue 1",
+      "date": "2026-11-28T19:45Z",
+      "name": "Lorient at Paris Saint-Germain",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Paris Saint-Germain",
+        "abbreviation": "PSG",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
+      },
+      "away_team": {
+        "name": "Lorient",
+        "abbreviation": "LOR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Parc des Princes",
+      "broadcast": null
+    },
+    {
+      "id": "401876388",
+      "league_id": "fra.1",
+      "league_name": "French Ligue 1",
+      "date": "2026-11-28T19:45Z",
+      "name": "Troyes at Nice",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Nice",
+        "abbreviation": "NICE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png"
+      },
+      "away_team": {
+        "name": "Troyes",
+        "abbreviation": "TRY",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Allianz Riviera",
+      "broadcast": null
+    },
+    {
+      "id": "401876390",
+      "league_id": "fra.1",
+      "league_name": "French Ligue 1",
+      "date": "2026-11-28T19:45Z",
+      "name": "Lille at Le Mans",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Le Mans",
+        "abbreviation": "MNS",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png"
+      },
+      "away_team": {
+        "name": "Lille",
+        "abbreviation": "LILL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stade Marie-Marvingt",
+      "broadcast": null
+    },
+    {
+      "id": "401876391",
+      "league_id": "fra.1",
+      "league_name": "French Ligue 1",
+      "date": "2026-11-28T19:45Z",
+      "name": "Strasbourg at Le Havre AC",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Le Havre AC",
+        "abbreviation": "HAC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png"
+      },
+      "away_team": {
+        "name": "Strasbourg",
+        "abbreviation": "STR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stade Océane",
+      "broadcast": null
+    },
+    {
+      "id": "401875530",
+      "league_id": "ned.1",
+      "league_name": "Dutch Eredivisie",
+      "date": "2026-11-28T20:00Z",
+      "name": "Sparta Rotterdam at SC Cambuur",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "SC Cambuur",
+        "abbreviation": "CAM",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3736.png"
+      },
+      "away_team": {
+        "name": "Sparta Rotterdam",
+        "abbreviation": "SPA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/151.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Kooi Stadium",
+      "broadcast": null
+    },
+    {
+      "id": "401882789",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-11-28T20:00Z",
+      "name": "Alavés at Real Madrid",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Real Madrid",
+        "abbreviation": "RMA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+      },
+      "away_team": {
+        "name": "Alavés",
+        "abbreviation": "ALA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Santiago Bernabéu",
+      "broadcast": "ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401885385",
+      "league_id": "por.1",
+      "league_name": "Portuguese Primeira Liga",
+      "date": "2026-11-28T20:30Z",
+      "name": "Estrela at Vitória de Guimaraes",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Vitória de Guimaraes",
+        "abbreviation": "VSC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/5309.png"
+      },
+      "away_team": {
+        "name": "Estrela",
+        "abbreviation": "EST",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21610.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Estádio D. Afonso Henriques",
+      "broadcast": null
+    }
+  ]
+}

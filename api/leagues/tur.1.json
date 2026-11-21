@@ -1,0 +1,226 @@
+{
+  "last_update": "2026-11-21T18:20:46.493Z",
+  "total_matches": 9,
+  "total_leagues": 1,
+  "league_id": "tur.1",
+  "league_name": "Turkish Super Lig",
+  "matches": [
+    {
+      "id": "401888243",
+      "league_id": "tur.1",
+      "league_name": "Turkish Super Lig",
+      "date": "2026-11-22T10:30Z",
+      "name": "Goztepe at Erzurum BB",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Erzurum BB",
+        "abbreviation": "ERZ",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19267.png"
+      },
+      "away_team": {
+        "name": "Goztepe",
+        "abbreviation": "GOZ",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/789.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Erzurum Kazim Karabekir",
+      "broadcast": null
+    },
+    {
+      "id": "401888246",
+      "league_id": "tur.1",
+      "league_name": "Turkish Super Lig",
+      "date": "2026-11-22T13:00Z",
+      "name": "Besiktas at Konyaspor",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Konyaspor",
+        "abbreviation": "KNY",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7648.png"
+      },
+      "away_team": {
+        "name": "Besiktas",
+        "abbreviation": "BES",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Medas Konya Büyüksehir Stadyumu",
+      "broadcast": null
+    },
+    {
+      "id": "401888248",
+      "league_id": "tur.1",
+      "league_name": "Turkish Super Lig",
+      "date": "2026-11-22T13:00Z",
+      "name": "Alanyaspor at Kasimpasa",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Kasimpasa",
+        "abbreviation": "KAS",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png"
+      },
+      "away_team": {
+        "name": "Alanyaspor",
+        "abbreviation": "ALA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9078.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Recep Tayyip Erdogan Stadium",
+      "broadcast": null
+    },
+    {
+      "id": "401888249",
+      "league_id": "tur.1",
+      "league_name": "Turkish Super Lig",
+      "date": "2026-11-22T16:00Z",
+      "name": "Eyupspor at Trabzonspor",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Trabzonspor",
+        "abbreviation": "TRAB",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png"
+      },
+      "away_team": {
+        "name": "Eyupspor",
+        "abbreviation": "EYU",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20729.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Papara Park",
+      "broadcast": null
+    },
+    {
+      "id": "401888370",
+      "league_id": "tur.1",
+      "league_name": "Turkish Super Lig",
+      "date": "2026-11-23T17:00Z",
+      "name": "Çorum FK at Istanbul Basaksehir",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Istanbul Basaksehir",
+        "abbreviation": "IBFK",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7914.png"
+      },
+      "away_team": {
+        "name": "Çorum FK",
+        "abbreviation": "COR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132334.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Basaksehir Fatih Terim Stadium",
+      "broadcast": null
+    },
+    {
+      "id": "401888240",
+      "league_id": "tur.1",
+      "league_name": "Turkish Super Lig",
+      "date": "2026-11-27T17:00Z",
+      "name": "Kasimpasa at Caykur Rizespor",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Caykur Rizespor",
+        "abbreviation": "CAY",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7656.png"
+      },
+      "away_team": {
+        "name": "Kasimpasa",
+        "abbreviation": "KAS",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6870.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Estadio Caykur Didi",
+      "broadcast": null
+    },
+    {
+      "id": "401888241",
+      "league_id": "tur.1",
+      "league_name": "Turkish Super Lig",
+      "date": "2026-11-27T17:00Z",
+      "name": "Konyaspor at Alanyaspor",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Alanyaspor",
+        "abbreviation": "ALA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9078.png"
+      },
+      "away_team": {
+        "name": "Konyaspor",
+        "abbreviation": "KNY",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7648.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Kirbiyik Holding Stadyumu",
+      "broadcast": null
+    },
+    {
+      "id": "401888236",
+      "league_id": "tur.1",
+      "league_name": "Turkish Super Lig",
+      "date": "2026-11-28T13:00Z",
+      "name": "Genclerbirligi at Samsunspor",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Samsunspor",
+        "abbreviation": "SAM",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11429.png"
+      },
+      "away_team": {
+        "name": "Genclerbirligi",
+        "abbreviation": "GEN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/996.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Samsun 19 Mayis Stadium",
+      "broadcast": null
+    },
+    {
+      "id": "401888368",
+      "league_id": "tur.1",
+      "league_name": "Turkish Super Lig",
+      "date": "2026-11-28T16:00Z",
+      "name": "Amed SFK at Gaziantep FK",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Gaziantep FK",
+        "abbreviation": "GAZ",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20070.png"
+      },
+      "away_team": {
+        "name": "Amed SFK",
+        "abbreviation": "AMED",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132335.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Gaziantep Stadium",
+      "broadcast": null
+    }
+  ],
+  "stale": false
+}
