@@ -1,7 +1,7 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-21T18:28:33.233Z",
+  "last_update": "2026-11-21T18:29:26.606Z",
   "total_matches": 12,
   "total_leagues": 1,
   "league_id": "ita.1",
@@ -15,7 +15,7 @@
       "name": "AS Roma at Parma",
       "status": "in",
       "state": "in",
-      "minute": "72'",
+      "minute": "73'",
       "home_team": {
         "name": "Parma",
         "abbreviation": "PAR",
