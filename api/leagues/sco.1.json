@@ -1,45 +1,21 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-21T19:25:22.105Z",
-  "total_matches": 9,
+  "last_update": "2026-11-21T20:12:22.412Z",
+  "total_matches": 8,
   "total_leagues": 1,
   "league_id": "sco.1",
   "league_name": "Scottish Premiership",
   "matches": [
-    {
-      "id": "401878337",
-      "league_id": "sco.1",
-      "league_name": "Scottish Premiership",
-      "date": "2026-11-21T17:45Z",
-      "name": "Heart of Midlothian at Dundee",
-      "status": "in",
-      "state": "in",
-      "minute": "80'",
-      "home_team": {
-        "name": "Dundee",
-        "abbreviation": "DUN",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/261.png"
-      },
-      "away_team": {
-        "name": "Heart of Midlothian",
-        "abbreviation": "HOM",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/262.png"
-      },
-      "home_score": 0,
-      "away_score": 6,
-      "venue": "The Scot Foam Stadium at Dens Park",
-      "broadcast": null
-    },
     {
       "id": "401878333",
       "league_id": "sco.1",
       "league_name": "Scottish Premiership",
       "date": "2026-11-21T20:00Z",
       "name": "Rangers at Motherwell",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "12'",
       "home_team": {
         "name": "Motherwell",
         "abbreviation": "MOT",
@@ -50,8 +26,8 @@
         "abbreviation": "RAN",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/257.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 1,
       "venue": "Fir Park",
       "broadcast": null
     },

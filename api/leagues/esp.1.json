@@ -1,45 +1,21 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-21T19:25:22.105Z",
-  "total_matches": 12,
+  "last_update": "2026-11-21T20:12:22.412Z",
+  "total_matches": 11,
   "total_leagues": 1,
   "league_id": "esp.1",
   "league_name": "Spanish LALIGA",
   "matches": [
-    {
-      "id": "401882797",
-      "league_id": "esp.1",
-      "league_name": "Spanish LALIGA",
-      "date": "2026-11-21T17:30Z",
-      "name": "Real Betis at Sevilla",
-      "status": "in",
-      "state": "in",
-      "minute": "90'+3'",
-      "home_team": {
-        "name": "Sevilla",
-        "abbreviation": "SEV",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
-      },
-      "away_team": {
-        "name": "Real Betis",
-        "abbreviation": "BET",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
-      },
-      "home_score": 1,
-      "away_score": 1,
-      "venue": "Ramón Sánchez Pizjuán Stadium",
-      "broadcast": "ESPN Deportes, ESPN+"
-    },
     {
       "id": "401882798",
       "league_id": "esp.1",
       "league_name": "Spanish LALIGA",
       "date": "2026-11-21T20:00Z",
       "name": "Celta Vigo at Real Madrid",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "4'",
       "home_team": {
         "name": "Real Madrid",
         "abbreviation": "RMA",
@@ -50,8 +26,8 @@
         "abbreviation": "CEL",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "Santiago Bernabéu",
       "broadcast": "ESPN Deportes, ESPN+"
     },

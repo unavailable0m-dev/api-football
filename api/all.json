@@ -2,140 +2,20 @@
   "source": "ESPN",
   "stale": false,
   "last_update": "2026-11-21T18:20:46.493Z",
-  "total_matches": 141,
+  "total_matches": 136,
   "total_leagues": 12,
   "league_id": null,
   "league_name": null,
   "matches": [
-    {
-      "id": "401879232",
-      "league_id": "eng.1",
-      "league_name": "English Premier League",
-      "date": "2026-11-21T17:30Z",
-      "name": "Arsenal at Newcastle United",
-      "status": "in",
-      "state": "in",
-      "minute": "90'+8'",
-      "home_team": {
-        "name": "Newcastle United",
-        "abbreviation": "NEW",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png"
-      },
-      "away_team": {
-        "name": "Arsenal",
-        "abbreviation": "ARS",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
-      },
-      "home_score": 2,
-      "away_score": 2,
-      "venue": "St. James' Park",
-      "broadcast": "USA Net, Tele"
-    },
-    {
-      "id": "401882797",
-      "league_id": "esp.1",
-      "league_name": "Spanish LALIGA",
-      "date": "2026-11-21T17:30Z",
-      "name": "Real Betis at Sevilla",
-      "status": "in",
-      "state": "in",
-      "minute": "90'+3'",
-      "home_team": {
-        "name": "Sevilla",
-        "abbreviation": "SEV",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
-      },
-      "away_team": {
-        "name": "Real Betis",
-        "abbreviation": "BET",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
-      },
-      "home_score": 1,
-      "away_score": 1,
-      "venue": "Ramón Sánchez Pizjuán Stadium",
-      "broadcast": "ESPN Deportes, ESPN+"
-    },
-    {
-      "id": "401875543",
-      "league_id": "ned.1",
-      "league_name": "Dutch Eredivisie",
-      "date": "2026-11-21T17:45Z",
-      "name": "Excelsior at Feyenoord Rotterdam",
-      "status": "in",
-      "state": "in",
-      "minute": "80'",
-      "home_team": {
-        "name": "Feyenoord Rotterdam",
-        "abbreviation": "FEY",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png"
-      },
-      "away_team": {
-        "name": "Excelsior",
-        "abbreviation": "EXC",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2566.png"
-      },
-      "home_score": 2,
-      "away_score": 3,
-      "venue": "De Kuip",
-      "broadcast": null
-    },
-    {
-      "id": "401875544",
-      "league_id": "ned.1",
-      "league_name": "Dutch Eredivisie",
-      "date": "2026-11-21T17:45Z",
-      "name": "SC Cambuur at FC Utrecht",
-      "status": "in",
-      "state": "in",
-      "minute": "48'",
-      "home_team": {
-        "name": "FC Utrecht",
-        "abbreviation": "UTR",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/153.png"
-      },
-      "away_team": {
-        "name": "SC Cambuur",
-        "abbreviation": "CAM",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3736.png"
-      },
-      "home_score": 0,
-      "away_score": 1,
-      "venue": "Stadion Galgenwaard",
-      "broadcast": null
-    },
-    {
-      "id": "401878337",
-      "league_id": "sco.1",
-      "league_name": "Scottish Premiership",
-      "date": "2026-11-21T17:45Z",
-      "name": "Heart of Midlothian at Dundee",
-      "status": "in",
-      "state": "in",
-      "minute": "80'",
-      "home_team": {
-        "name": "Dundee",
-        "abbreviation": "DUN",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/261.png"
-      },
-      "away_team": {
-        "name": "Heart of Midlothian",
-        "abbreviation": "HOM",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/262.png"
-      },
-      "home_score": 0,
-      "away_score": 6,
-      "venue": "The Scot Foam Stadium at Dens Park",
-      "broadcast": null
-    },
     {
       "id": "401875067",
       "league_id": "ita.1",
       "league_name": "Italian Serie A",
       "date": "2026-11-21T19:45Z",
       "name": "Torino at Napoli",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "27'",
       "home_team": {
         "name": "Napoli",
         "abbreviation": "NAP",
@@ -146,8 +26,8 @@
         "abbreviation": "TOR",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "Stadio Diego Armando Maradona",
       "broadcast": "Paramount+"
     },
@@ -157,9 +37,9 @@
       "league_name": "French Ligue 1",
       "date": "2026-11-21T19:45Z",
       "name": "Brest at Strasbourg",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "27'",
       "home_team": {
         "name": "Strasbourg",
         "abbreviation": "STR",
@@ -170,8 +50,8 @@
         "abbreviation": "BRE",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 1,
       "venue": "Stade de la Meinau",
       "broadcast": null
     },
@@ -181,9 +61,9 @@
       "league_name": "French Ligue 1",
       "date": "2026-11-21T19:45Z",
       "name": "AJ Auxerre at AS Monaco",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "27'",
       "home_team": {
         "name": "AS Monaco",
         "abbreviation": "MON",
@@ -194,8 +74,8 @@
         "abbreviation": "AUX",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "Stade Louis II",
       "broadcast": "beIn Sports"
     },
@@ -205,9 +85,9 @@
       "league_name": "French Ligue 1",
       "date": "2026-11-21T19:45Z",
       "name": "Lyon at Lille",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "27'",
       "home_team": {
         "name": "Lille",
         "abbreviation": "LILL",
@@ -218,8 +98,8 @@
         "abbreviation": "LYON",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "Decathlon Arena - Stade Pierre-Mauroy",
       "broadcast": null
     },
@@ -229,9 +109,9 @@
       "league_name": "French Ligue 1",
       "date": "2026-11-21T19:45Z",
       "name": "Toulouse at Lens",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "27'",
       "home_team": {
         "name": "Lens",
         "abbreviation": "RCL",
@@ -242,8 +122,8 @@
         "abbreviation": "TOU",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "Stade Bollaert-Delelis",
       "broadcast": null
     },
@@ -253,9 +133,9 @@
       "league_name": "Dutch Eredivisie",
       "date": "2026-11-21T20:00Z",
       "name": "PEC Zwolle at Telstar",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "11'",
       "home_team": {
         "name": "Telstar",
         "abbreviation": "TEL",
@@ -266,8 +146,8 @@
         "abbreviation": "PEC",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "711 Stadion",
       "broadcast": null
     },
@@ -277,9 +157,9 @@
       "league_name": "Dutch Eredivisie",
       "date": "2026-11-21T20:00Z",
       "name": "Heerenveen at FC Groningen",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "12'",
       "home_team": {
         "name": "FC Groningen",
         "abbreviation": "GRO",
@@ -290,8 +170,8 @@
         "abbreviation": "HEE",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/146.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "Euroborg",
       "broadcast": null
     },
@@ -301,9 +181,9 @@
       "league_name": "Scottish Premiership",
       "date": "2026-11-21T20:00Z",
       "name": "Rangers at Motherwell",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "12'",
       "home_team": {
         "name": "Motherwell",
         "abbreviation": "MOT",
@@ -314,8 +194,8 @@
         "abbreviation": "RAN",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/257.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 1,
       "venue": "Fir Park",
       "broadcast": null
     },
@@ -325,9 +205,9 @@
       "league_name": "Spanish LALIGA",
       "date": "2026-11-21T20:00Z",
       "name": "Celta Vigo at Real Madrid",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "4'",
       "home_team": {
         "name": "Real Madrid",
         "abbreviation": "RMA",
@@ -338,8 +218,8 @@
         "abbreviation": "CEL",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "Santiago Bernabéu",
       "broadcast": "ESPN Deportes, ESPN+"
     },
