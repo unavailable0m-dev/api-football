@@ -1,7 +1,7 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-21T18:26:43.076Z",
+  "last_update": "2026-11-21T18:28:33.233Z",
   "total_matches": 9,
   "total_leagues": 1,
   "league_id": "sco.1",
@@ -15,7 +15,7 @@
       "name": "Heart of Midlothian at Dundee",
       "status": "in",
       "state": "in",
-      "minute": "39'",
+      "minute": "41'",
       "home_team": {
         "name": "Dundee",
         "abbreviation": "DUN",
@@ -27,7 +27,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/262.png"
       },
       "home_score": 0,
-      "away_score": 3,
+      "away_score": 4,
       "venue": "The Scot Foam Stadium at Dens Park",
       "broadcast": null
     },

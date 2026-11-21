@@ -15,7 +15,7 @@
       "name": "AS Roma at Parma",
       "status": "in",
       "state": "in",
-      "minute": "70'",
+      "minute": "72'",
       "home_team": {
         "name": "Parma",
         "abbreviation": "PAR",
@@ -27,7 +27,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
       },
       "home_score": 1,
-      "away_score": 2,
+      "away_score": 3,
       "venue": "Ennio Tardini",
       "broadcast": "Paramount+"
     },
@@ -111,7 +111,7 @@
       "name": "Excelsior at Feyenoord Rotterdam",
       "status": "in",
       "state": "in",
-      "minute": "42'",
+      "minute": "44'",
       "home_team": {
         "name": "Feyenoord Rotterdam",
         "abbreviation": "FEY",
@@ -135,7 +135,7 @@
       "name": "Heart of Midlothian at Dundee",
       "status": "in",
       "state": "in",
-      "minute": "39'",
+      "minute": "41'",
       "home_team": {
         "name": "Dundee",
         "abbreviation": "DUN",
@@ -147,7 +147,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/262.png"
       },
       "home_score": 0,
-      "away_score": 3,
+      "away_score": 4,
       "venue": "The Scot Foam Stadium at Dens Park",
       "broadcast": null
     },

@@ -1,7 +1,7 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-21T18:26:43.076Z",
+  "last_update": "2026-11-21T18:28:33.233Z",
   "total_matches": 12,
   "total_leagues": 1,
   "league_id": "ita.1",
@@ -15,7 +15,7 @@
       "name": "AS Roma at Parma",
       "status": "in",
       "state": "in",
-      "minute": "70'",
+      "minute": "72'",
       "home_team": {
         "name": "Parma",
         "abbreviation": "PAR",
@@ -27,7 +27,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
       },
       "home_score": 1,
-      "away_score": 2,
+      "away_score": 3,
       "venue": "Ennio Tardini",
       "broadcast": "Paramount+"
     },
