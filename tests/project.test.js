@@ -45,3 +45,18 @@ test('dynamic all and all 12 league routes; invalid ID 404; no ESPN fetch from a
  const r=response();await h({url:'/api/not-real',method:'GET'},r);assert.equal(r.statusCode,404);
  assert.ok(calls.every(url=>url.startsWith('https://raw.githubusercontent.com/')));
 });
+test('ESPN season calendar extends beyond seven days until minimum five pre, without capping live or upcoming',async()=>{
+ const calls=[]; const calendar=['2026-11-21T08:00Z','2026-12-05T08:00Z','2026-12-12T08:00Z'];
+ const l={...league,calendarType:'day',calendarIsWhitelist:true,calendar,calendarEndDate:'2027-06-01T00:00Z'};
+ const r=await fetchMatches('eng.1',null,{now:new Date('2026-11-21T18:00Z'),fetcher:async(id,date)=>{calls.push(date);return {leagues:[l],events:date==='20261121'?[fixture('live','in')]:date==='20261205'?Array.from({length:6},(_,i)=>({...fixture(String(i)),date:'2026-12-05T20:00Z'})):[]};}});
+ assert.equal(r.matches.filter(m=>m.state==='pre').length,6);assert.equal(r.matches.filter(m=>m.state==='in').length,1);assert.ok(calls.includes('20261205'));assert.ok(!calls.includes('20261212'));assert.equal(r.coverage.upcoming_shortfall,0);
+});
+test('exhausted ESPN calendar reports real shortfall, never fake matches',async()=>{
+ const l={...league,calendarType:'day',calendarIsWhitelist:true,calendar:['2026-12-05T08:00Z']};
+ const r=await fetchMatches('eng.1',null,{now:new Date('2026-11-21'),fetcher:async()=>({leagues:[l],events:[]})});
+ assert.equal(r.coverage.upcoming_count,0);assert.equal(r.coverage.upcoming_shortfall,5);assert.deepEqual(r.matches,[]);
+});
+test('Netlify adapter uses same real stored-data handler and honors HEAD/OPTIONS/404',async()=>{
+ const {default:api,config}=await import('../netlify/functions/api.js');assert.equal(config.path,'/api/*');
+ for(const [path,method,status] of [['/api/not-real','GET',404],['/api/all','OPTIONS',204],['/api/all','POST',405]]){const r=await api(new Request('https://example.test'+path,{method}));assert.equal(r.status,status);assert.equal(r.headers.get('access-control-allow-origin'),'*');}
+});
