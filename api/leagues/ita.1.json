@@ -1,7 +1,7 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-21T20:12:22.412Z",
+  "last_update": "2026-11-21T20:56:09.135Z",
   "total_matches": 11,
   "total_leagues": 1,
   "league_id": "ita.1",
@@ -15,7 +15,7 @@
       "name": "Torino at Napoli",
       "status": "in",
       "state": "in",
-      "minute": "27'",
+      "minute": "52'",
       "home_team": {
         "name": "Napoli",
         "abbreviation": "NAP",
