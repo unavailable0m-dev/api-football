@@ -1,0 +1,9 @@
+[build]
+  command = "npm test"
+  publish = "public"
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- src netlify netlify.toml package.json tests public"
+[build.environment]
+  NODE_VERSION = "22"
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
