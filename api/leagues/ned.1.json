@@ -1,8 +1,8 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-21T22:18:25.173Z",
-  "total_matches": 8,
+  "last_update": "2026-11-22T00:19:36.527Z",
+  "total_matches": 13,
   "total_leagues": 1,
   "league_id": "ned.1",
   "league_name": "Dutch Eredivisie",
@@ -197,6 +197,126 @@
       "home_score": null,
       "away_score": null,
       "venue": "Kooi Stadium",
+      "broadcast": null
+    },
+    {
+      "id": "401875538",
+      "league_id": "ned.1",
+      "league_name": "Dutch Eredivisie",
+      "date": "2026-11-29T11:15Z",
+      "name": "FC Utrecht at ADO Den Haag",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "ADO Den Haag",
+        "abbreviation": "ADO",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png"
+      },
+      "away_team": {
+        "name": "FC Utrecht",
+        "abbreviation": "UTR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/153.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "ADO Den Haag Stadium",
+      "broadcast": null
+    },
+    {
+      "id": "401875534",
+      "league_id": "ned.1",
+      "league_name": "Dutch Eredivisie",
+      "date": "2026-11-29T13:30Z",
+      "name": "Heerenveen at Fortuna Sittard",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Fortuna Sittard",
+        "abbreviation": "FOR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png"
+      },
+      "away_team": {
+        "name": "Heerenveen",
+        "abbreviation": "HEE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/146.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Fortuna Sittard Stadion",
+      "broadcast": null
+    },
+    {
+      "id": "401875535",
+      "league_id": "ned.1",
+      "league_name": "Dutch Eredivisie",
+      "date": "2026-11-29T13:30Z",
+      "name": "Ajax Amsterdam at Feyenoord Rotterdam",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Feyenoord Rotterdam",
+        "abbreviation": "FEY",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/142.png"
+      },
+      "away_team": {
+        "name": "Ajax Amsterdam",
+        "abbreviation": "AJA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "De Kuip",
+      "broadcast": null
+    },
+    {
+      "id": "401875532",
+      "league_id": "ned.1",
+      "league_name": "Dutch Eredivisie",
+      "date": "2026-11-29T15:45Z",
+      "name": "AZ Alkmaar at PEC Zwolle",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "PEC Zwolle",
+        "abbreviation": "PEC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2565.png"
+      },
+      "away_team": {
+        "name": "AZ Alkmaar",
+        "abbreviation": "AZ",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "MAC³PARK Stadion",
+      "broadcast": null
+    },
+    {
+      "id": "401875533",
+      "league_id": "ned.1",
+      "league_name": "Dutch Eredivisie",
+      "date": "2026-11-29T19:00Z",
+      "name": "FC Twente at NEC Nijmegen",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "NEC Nijmegen",
+        "abbreviation": "NEC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png"
+      },
+      "away_team": {
+        "name": "FC Twente",
+        "abbreviation": "TWE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Goffertstadion",
       "broadcast": null
     }
   ]

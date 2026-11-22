@@ -1,8 +1,8 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-21T22:18:25.173Z",
-  "total_matches": 10,
+  "last_update": "2026-11-22T00:19:36.527Z",
+  "total_matches": 14,
   "total_leagues": 1,
   "league_id": "ita.1",
   "league_name": "Italian Serie A",
@@ -245,6 +245,102 @@
       "home_score": null,
       "away_score": null,
       "venue": "San Siro",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401875031",
+      "league_id": "ita.1",
+      "league_name": "Italian Serie A",
+      "date": "2026-11-29T11:30Z",
+      "name": "Fiorentina at Udinese",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Udinese",
+        "abbreviation": "UDI",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
+      },
+      "away_team": {
+        "name": "Fiorentina",
+        "abbreviation": "FIO",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stadio Friuli",
+      "broadcast": "CBSSN, Paramount+"
+    },
+    {
+      "id": "401874992",
+      "league_id": "ita.1",
+      "league_name": "Italian Serie A",
+      "date": "2026-11-29T14:00Z",
+      "name": "Napoli at Sassuolo",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Sassuolo",
+        "abbreviation": "SAS",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png"
+      },
+      "away_team": {
+        "name": "Napoli",
+        "abbreviation": "NAP",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Mapei Stadium",
+      "broadcast": "CBSSN, Paramount+"
+    },
+    {
+      "id": "401874769",
+      "league_id": "ita.1",
+      "league_name": "Italian Serie A",
+      "date": "2026-11-29T17:00Z",
+      "name": "Monza at AS Roma",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "AS Roma",
+        "abbreviation": "ROMA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
+      },
+      "away_team": {
+        "name": "Monza",
+        "abbreviation": "MON",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Olimpico",
+      "broadcast": "Paramount+"
+    },
+    {
+      "id": "401874994",
+      "league_id": "ita.1",
+      "league_name": "Italian Serie A",
+      "date": "2026-11-29T19:45Z",
+      "name": "Juventus at Como",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Como",
+        "abbreviation": "COMO",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
+      },
+      "away_team": {
+        "name": "Juventus",
+        "abbreviation": "JUV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Giuseppe Sinigaglia",
       "broadcast": "Paramount+"
     }
   ]
