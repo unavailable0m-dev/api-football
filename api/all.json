@@ -13,9 +13,9 @@
       "league_name": "Italian Serie A",
       "date": "2026-11-22T19:45Z",
       "name": "Internazionale at Atalanta",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "34'",
       "home_team": {
         "name": "Atalanta",
         "abbreviation": "ATA",
@@ -26,8 +26,8 @@
         "abbreviation": "INT",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 2,
       "venue": "New Balance Arena",
       "broadcast": "Paramount+"
     },
@@ -37,9 +37,9 @@
       "league_name": "French Ligue 1",
       "date": "2026-11-22T19:45Z",
       "name": "Le Mans at Marseille",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "33'",
       "home_team": {
         "name": "Marseille",
         "abbreviation": "OLM",
@@ -50,8 +50,8 @@
         "abbreviation": "MNS",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "Stade Vélodrome",
       "broadcast": "beIn Sports"
     },
@@ -61,9 +61,9 @@
       "league_name": "Spanish LALIGA",
       "date": "2026-11-22T20:00Z",
       "name": "Atlético Madrid at Getafe",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "18'",
       "home_team": {
         "name": "Getafe",
         "abbreviation": "GET",
@@ -74,8 +74,8 @@
         "abbreviation": "ATM",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 1,
       "venue": "Estadio Coliseum",
       "broadcast": "ESPN Deportes, ESPN+"
     },
