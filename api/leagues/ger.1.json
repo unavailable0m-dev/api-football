@@ -1,7 +1,7 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-22T15:25:16.294Z",
+  "last_update": "2026-11-22T16:15:26.320Z",
   "total_matches": 11,
   "total_leagues": 1,
   "league_id": "ger.1",
@@ -15,7 +15,7 @@
       "name": "Mainz at FC Augsburg",
       "status": "in",
       "state": "in",
-      "minute": "45'+5'",
+      "minute": "84'",
       "home_team": {
         "name": "FC Augsburg",
         "abbreviation": "FCA",
@@ -26,8 +26,8 @@
         "abbreviation": "M05",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png"
       },
-      "home_score": 2,
-      "away_score": 0,
+      "home_score": 3,
+      "away_score": 1,
       "venue": "WWK Arena",
       "broadcast": "Fandango"
     },

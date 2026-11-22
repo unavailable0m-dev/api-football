@@ -1,7 +1,7 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-22T15:25:16.294Z",
+  "last_update": "2026-11-22T16:15:26.320Z",
   "total_matches": 10,
   "total_leagues": 1,
   "league_id": "ned.1",
@@ -13,9 +13,9 @@
       "league_name": "Dutch Eredivisie",
       "date": "2026-11-22T15:45Z",
       "name": "Fortuna Sittard at Go Ahead Eagles",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "29'",
       "home_team": {
         "name": "Go Ahead Eagles",
         "abbreviation": "GAE",
@@ -26,8 +26,8 @@
         "abbreviation": "FOR",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "De Adelaarshorst",
       "broadcast": null
     },
