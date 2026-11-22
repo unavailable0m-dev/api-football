@@ -1,45 +1,21 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-22T17:04:57.487Z",
-  "total_matches": 13,
+  "last_update": "2026-11-22T17:47:29.302Z",
+  "total_matches": 12,
   "total_leagues": 1,
   "league_id": "esp.1",
   "league_name": "Spanish LALIGA",
   "matches": [
-    {
-      "id": "401882800",
-      "league_id": "esp.1",
-      "league_name": "Spanish LALIGA",
-      "date": "2026-11-22T15:15Z",
-      "name": "Real Sociedad at Racing Santander",
-      "status": "in",
-      "state": "in",
-      "minute": "90'",
-      "home_team": {
-        "name": "Racing Santander",
-        "abbreviation": "RAC",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png"
-      },
-      "away_team": {
-        "name": "Real Sociedad",
-        "abbreviation": "RSO",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
-      },
-      "home_score": 3,
-      "away_score": 2,
-      "venue": "El Sardineros",
-      "broadcast": "ESPN Deportes, ESPN+"
-    },
     {
       "id": "401882801",
       "league_id": "esp.1",
       "league_name": "Spanish LALIGA",
       "date": "2026-11-22T17:30Z",
       "name": "Málaga at Osasuna",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "17'",
       "home_team": {
         "name": "Osasuna",
         "abbreviation": "OSA",
@@ -50,8 +26,8 @@
         "abbreviation": "MCF",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "El Sadar",
       "broadcast": "ESPN Deportes, ESPN+"
     },

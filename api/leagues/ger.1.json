@@ -1,7 +1,7 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-22T17:04:57.487Z",
+  "last_update": "2026-11-22T17:47:29.302Z",
   "total_matches": 10,
   "total_leagues": 1,
   "league_id": "ger.1",
@@ -15,7 +15,7 @@
       "name": "Hamburg SV at Werder Bremen",
       "status": "in",
       "state": "in",
-      "minute": "33'",
+      "minute": "52'",
       "home_team": {
         "name": "Werder Bremen",
         "abbreviation": "SVW",
