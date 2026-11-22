@@ -2,59 +2,11 @@
   "source": "ESPN",
   "stale": false,
   "last_update": "2026-11-21T18:20:46.493Z",
-  "total_matches": 137,
+  "total_matches": 135,
   "total_leagues": 12,
   "league_id": null,
   "league_name": null,
   "matches": [
-    {
-      "id": "401875001",
-      "league_id": "ita.1",
-      "league_name": "Italian Serie A",
-      "date": "2026-11-22T19:45Z",
-      "name": "Internazionale at Atalanta",
-      "status": "in",
-      "state": "in",
-      "minute": "61'",
-      "home_team": {
-        "name": "Atalanta",
-        "abbreviation": "ATA",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
-      },
-      "away_team": {
-        "name": "Internazionale",
-        "abbreviation": "INT",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
-      },
-      "home_score": 1,
-      "away_score": 3,
-      "venue": "New Balance Arena",
-      "broadcast": "Paramount+"
-    },
-    {
-      "id": "401876400",
-      "league_id": "fra.1",
-      "league_name": "French Ligue 1",
-      "date": "2026-11-22T19:45Z",
-      "name": "Le Mans at Marseille",
-      "status": "in",
-      "state": "in",
-      "minute": "61'",
-      "home_team": {
-        "name": "Marseille",
-        "abbreviation": "OLM",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
-      },
-      "away_team": {
-        "name": "Le Mans",
-        "abbreviation": "MNS",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png"
-      },
-      "home_score": 2,
-      "away_score": 0,
-      "venue": "Stade Vélodrome",
-      "broadcast": "beIn Sports"
-    },
     {
       "id": "401882803",
       "league_id": "esp.1",
@@ -63,7 +15,7 @@
       "name": "Atlético Madrid at Getafe",
       "status": "in",
       "state": "in",
-      "minute": "45'+3'",
+      "minute": "88'",
       "home_team": {
         "name": "Getafe",
         "abbreviation": "GET",

@@ -1,7 +1,7 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-22T21:05:40.743Z",
+  "last_update": "2026-11-22T21:48:51.387Z",
   "total_matches": 11,
   "total_leagues": 1,
   "league_id": "esp.1",
@@ -15,7 +15,7 @@
       "name": "Atlético Madrid at Getafe",
       "status": "in",
       "state": "in",
-      "minute": "45'+3'",
+      "minute": "88'",
       "home_team": {
         "name": "Getafe",
         "abbreviation": "GET",
