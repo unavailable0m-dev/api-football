@@ -2,35 +2,11 @@
   "source": "ESPN",
   "stale": false,
   "last_update": "2026-11-21T18:20:46.493Z",
-  "total_matches": 158,
+  "total_matches": 157,
   "total_leagues": 12,
   "league_id": null,
   "league_name": null,
   "matches": [
-    {
-      "id": "401888243",
-      "league_id": "tur.1",
-      "league_name": "Turkish Super Lig",
-      "date": "2026-11-22T10:30Z",
-      "name": "Goztepe at Erzurum BB",
-      "status": "in",
-      "state": "in",
-      "minute": "61'",
-      "home_team": {
-        "name": "Erzurum BB",
-        "abbreviation": "ERZ",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19267.png"
-      },
-      "away_team": {
-        "name": "Goztepe",
-        "abbreviation": "GOZ",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/789.png"
-      },
-      "home_score": 0,
-      "away_score": 0,
-      "venue": "Erzurum Kazim Karabekir",
-      "broadcast": null
-    },
     {
       "id": "401875545",
       "league_id": "ned.1",
@@ -39,7 +15,7 @@
       "name": "Willem II at FC Twente",
       "status": "in",
       "state": "in",
-      "minute": "36'",
+      "minute": "65'",
       "home_team": {
         "name": "FC Twente",
         "abbreviation": "TWE",
@@ -50,8 +26,8 @@
         "abbreviation": "WIL",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/156.png"
       },
-      "home_score": 0,
-      "away_score": 0,
+      "home_score": 1,
+      "away_score": 1,
       "venue": "De Grolsch Veste",
       "broadcast": null
     },
@@ -63,7 +39,7 @@
       "name": "Venezia at Juventus",
       "status": "in",
       "state": "in",
-      "minute": "22'",
+      "minute": "54'",
       "home_team": {
         "name": "Juventus",
         "abbreviation": "JUV",
