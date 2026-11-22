@@ -15,7 +15,7 @@
       "name": "Villarreal at Barcelona",
       "status": "in",
       "state": "in",
-      "minute": "39'",
+      "minute": "69'",
       "home_team": {
         "name": "Barcelona",
         "abbreviation": "BAR",
@@ -26,7 +26,7 @@
         "abbreviation": "VIL",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
       },
-      "home_score": 0,
+      "home_score": 3,
       "away_score": 2,
       "venue": "Spotify Camp Nou",
       "broadcast": "ESPN Deportes, ESPN+"
@@ -39,7 +39,7 @@
       "name": "Besiktas at Konyaspor",
       "status": "in",
       "state": "in",
-      "minute": "41'",
+      "minute": "75'",
       "home_team": {
         "name": "Konyaspor",
         "abbreviation": "KNY",
@@ -50,7 +50,7 @@
         "abbreviation": "BES",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png"
       },
-      "home_score": 0,
+      "home_score": 2,
       "away_score": 2,
       "venue": "Medas Konya Büyüksehir Stadyumu",
       "broadcast": null
@@ -63,7 +63,7 @@
       "name": "Alanyaspor at Kasimpasa",
       "status": "in",
       "state": "in",
-      "minute": "43'",
+      "minute": "73'",
       "home_team": {
         "name": "Kasimpasa",
         "abbreviation": "KAS",
@@ -75,7 +75,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9078.png"
       },
       "home_score": 1,
-      "away_score": 0,
+      "away_score": 1,
       "venue": "Recep Tayyip Erdogan Stadium",
       "broadcast": null
     },
@@ -87,7 +87,7 @@
       "name": "AZ Alkmaar at Sparta Rotterdam",
       "status": "in",
       "state": "in",
-      "minute": "11'",
+      "minute": "45'+1'",
       "home_team": {
         "name": "Sparta Rotterdam",
         "abbreviation": "SPA",
@@ -98,8 +98,8 @@
         "abbreviation": "AZ",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png"
       },
-      "home_score": 0,
-      "away_score": 0,
+      "home_score": 1,
+      "away_score": 1,
       "venue": "Sparta-Stadion Het Kasteel",
       "broadcast": null
     },
@@ -111,7 +111,7 @@
       "name": "ADO Den Haag at Ajax Amsterdam",
       "status": "in",
       "state": "in",
-      "minute": "10'",
+      "minute": "45'+1'",
       "home_team": {
         "name": "Ajax Amsterdam",
         "abbreviation": "AJA",
@@ -122,7 +122,7 @@
         "abbreviation": "ADO",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2726.png"
       },
-      "home_score": 1,
+      "home_score": 3,
       "away_score": 0,
       "venue": "Johan Cruijff Arena",
       "broadcast": null
@@ -133,9 +133,9 @@
       "league_name": "Italian Serie A",
       "date": "2026-11-22T14:00Z",
       "name": "Genoa at Sassuolo",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "32'",
       "home_team": {
         "name": "Sassuolo",
         "abbreviation": "SAS",
@@ -146,8 +146,8 @@
         "abbreviation": "GEN",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 1,
       "venue": "Mapei Stadium",
       "broadcast": "Paramount+"
     },
@@ -157,9 +157,9 @@
       "league_name": "Italian Serie A",
       "date": "2026-11-22T14:00Z",
       "name": "Udinese at Bologna",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "33'",
       "home_team": {
         "name": "Bologna",
         "abbreviation": "BOL",
@@ -170,8 +170,8 @@
         "abbreviation": "UDI",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "Renato Dall'Ara",
       "broadcast": "CBSSN, Paramount+"
     },
@@ -181,9 +181,9 @@
       "league_name": "French Ligue 1",
       "date": "2026-11-22T14:00Z",
       "name": "Angers at Paris FC",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "34'",
       "home_team": {
         "name": "Paris FC",
         "abbreviation": "PAR",
@@ -194,8 +194,8 @@
         "abbreviation": "ANG",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "Stade Jean Bouin",
       "broadcast": "beIn Sports"
     },
@@ -205,9 +205,9 @@
       "league_name": "English Premier League",
       "date": "2026-11-22T14:00Z",
       "name": "Brighton & Hove Albion at Hull City",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "32'",
       "home_team": {
         "name": "Hull City",
         "abbreviation": "HUL",
@@ -218,8 +218,8 @@
         "abbreviation": "BHA",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "The MKM Stadium",
       "broadcast": "USA Net, Tele"
     },
@@ -229,9 +229,9 @@
       "league_name": "German Bundesliga",
       "date": "2026-11-22T14:30Z",
       "name": "Mainz at FC Augsburg",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "4'",
       "home_team": {
         "name": "FC Augsburg",
         "abbreviation": "FCA",
@@ -242,8 +242,8 @@
         "abbreviation": "M05",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "WWK Arena",
       "broadcast": "Fandango"
     },

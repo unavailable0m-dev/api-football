@@ -1,7 +1,7 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-22T13:42:33.463Z",
+  "last_update": "2026-11-22T14:33:54.193Z",
   "total_matches": 13,
   "total_leagues": 1,
   "league_id": "ita.1",
@@ -13,9 +13,9 @@
       "league_name": "Italian Serie A",
       "date": "2026-11-22T14:00Z",
       "name": "Genoa at Sassuolo",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "32'",
       "home_team": {
         "name": "Sassuolo",
         "abbreviation": "SAS",
@@ -26,8 +26,8 @@
         "abbreviation": "GEN",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 1,
       "venue": "Mapei Stadium",
       "broadcast": "Paramount+"
     },
@@ -37,9 +37,9 @@
       "league_name": "Italian Serie A",
       "date": "2026-11-22T14:00Z",
       "name": "Udinese at Bologna",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "33'",
       "home_team": {
         "name": "Bologna",
         "abbreviation": "BOL",
@@ -50,8 +50,8 @@
         "abbreviation": "UDI",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "Renato Dall'Ara",
       "broadcast": "CBSSN, Paramount+"
     },
