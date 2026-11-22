@@ -13,9 +13,9 @@
       "league_name": "Turkish Super Lig",
       "date": "2026-11-22T10:30Z",
       "name": "Goztepe at Erzurum BB",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "39'",
       "home_team": {
         "name": "Erzurum BB",
         "abbreviation": "ERZ",
@@ -26,8 +26,8 @@
         "abbreviation": "GOZ",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/789.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "Erzurum Kazim Karabekir",
       "broadcast": null
     },
