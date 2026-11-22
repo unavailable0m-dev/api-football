@@ -1,7 +1,7 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-22T20:18:45.644Z",
+  "last_update": "2026-11-22T21:05:40.743Z",
   "total_matches": 10,
   "total_leagues": 1,
   "league_id": "ita.1",
@@ -15,7 +15,7 @@
       "name": "Internazionale at Atalanta",
       "status": "in",
       "state": "in",
-      "minute": "34'",
+      "minute": "61'",
       "home_team": {
         "name": "Atalanta",
         "abbreviation": "ATA",
@@ -26,8 +26,8 @@
         "abbreviation": "INT",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
       },
-      "home_score": 0,
-      "away_score": 2,
+      "home_score": 1,
+      "away_score": 3,
       "venue": "New Balance Arena",
       "broadcast": "Paramount+"
     },
