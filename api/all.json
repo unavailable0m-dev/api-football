@@ -2,35 +2,11 @@
   "source": "ESPN",
   "stale": false,
   "last_update": "2026-11-21T18:20:46.493Z",
-  "total_matches": 146,
+  "total_matches": 145,
   "total_leagues": 12,
   "league_id": null,
   "league_name": null,
   "matches": [
-    {
-      "id": "401884733",
-      "league_id": "ger.1",
-      "league_name": "German Bundesliga",
-      "date": "2026-11-22T14:30Z",
-      "name": "Mainz at FC Augsburg",
-      "status": "in",
-      "state": "in",
-      "minute": "84'",
-      "home_team": {
-        "name": "FC Augsburg",
-        "abbreviation": "FCA",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png"
-      },
-      "away_team": {
-        "name": "Mainz",
-        "abbreviation": "M05",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png"
-      },
-      "home_score": 3,
-      "away_score": 1,
-      "venue": "WWK Arena",
-      "broadcast": "Fandango"
-    },
     {
       "id": "401882800",
       "league_id": "esp.1",
@@ -39,7 +15,7 @@
       "name": "Real Sociedad at Racing Santander",
       "status": "in",
       "state": "in",
-      "minute": "45'+3'",
+      "minute": "90'",
       "home_team": {
         "name": "Racing Santander",
         "abbreviation": "RAC",
@@ -50,8 +26,8 @@
         "abbreviation": "RSO",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
       },
-      "home_score": 2,
-      "away_score": 1,
+      "home_score": 3,
+      "away_score": 2,
       "venue": "El Sardineros",
       "broadcast": "ESPN Deportes, ESPN+"
     },
@@ -63,7 +39,7 @@
       "name": "Fortuna Sittard at Go Ahead Eagles",
       "status": "in",
       "state": "in",
-      "minute": "29'",
+      "minute": "61'",
       "home_team": {
         "name": "Go Ahead Eagles",
         "abbreviation": "GAE",
@@ -75,7 +51,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/143.png"
       },
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 1,
       "venue": "De Adelaarshorst",
       "broadcast": null
     },
@@ -87,7 +63,7 @@
       "name": "Eyupspor at Trabzonspor",
       "status": "in",
       "state": "in",
-      "minute": "15'",
+      "minute": "47'",
       "home_team": {
         "name": "Trabzonspor",
         "abbreviation": "TRAB",
@@ -109,9 +85,9 @@
       "league_name": "French Ligue 1",
       "date": "2026-11-22T16:15Z",
       "name": "Stade Rennais at Lorient",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "45'+3'",
       "home_team": {
         "name": "Lorient",
         "abbreviation": "LOR",
@@ -122,8 +98,8 @@
         "abbreviation": "REN",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 1,
+      "away_score": 1,
       "venue": "Stade du Moustoir - Yves Allainmat",
       "broadcast": "beIn Sports"
     },
@@ -133,9 +109,9 @@
       "league_name": "English Premier League",
       "date": "2026-11-22T16:30Z",
       "name": "Manchester United at Liverpool",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "35'",
       "home_team": {
         "name": "Liverpool",
         "abbreviation": "LIV",
@@ -146,8 +122,8 @@
         "abbreviation": "MAN",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 2,
+      "away_score": 0,
       "venue": "Anfield",
       "broadcast": "USA Net, Tele"
     },
@@ -157,9 +133,9 @@
       "league_name": "German Bundesliga",
       "date": "2026-11-22T16:30Z",
       "name": "Hamburg SV at Werder Bremen",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "33'",
       "home_team": {
         "name": "Werder Bremen",
         "abbreviation": "SVW",
@@ -170,8 +146,8 @@
         "abbreviation": "HSV",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "Weserstadion",
       "broadcast": "Fandango"
     },
@@ -181,9 +157,9 @@
       "league_name": "Italian Serie A",
       "date": "2026-11-22T17:00Z",
       "name": "Frosinone at AC Milan",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "4'",
       "home_team": {
         "name": "AC Milan",
         "abbreviation": "MIL",
@@ -194,8 +170,8 @@
         "abbreviation": "FRO",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "San Siro",
       "broadcast": "Paramount+"
     },

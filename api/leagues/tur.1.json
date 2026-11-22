@@ -1,7 +1,7 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-22T16:15:26.320Z",
+  "last_update": "2026-11-22T17:04:57.487Z",
   "total_matches": 9,
   "total_leagues": 1,
   "league_id": "tur.1",
@@ -15,7 +15,7 @@
       "name": "Eyupspor at Trabzonspor",
       "status": "in",
       "state": "in",
-      "minute": "15'",
+      "minute": "47'",
       "home_team": {
         "name": "Trabzonspor",
         "abbreviation": "TRAB",

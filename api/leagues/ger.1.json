@@ -1,45 +1,21 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-22T16:15:26.320Z",
-  "total_matches": 11,
+  "last_update": "2026-11-22T17:04:57.487Z",
+  "total_matches": 10,
   "total_leagues": 1,
   "league_id": "ger.1",
   "league_name": "German Bundesliga",
   "matches": [
-    {
-      "id": "401884733",
-      "league_id": "ger.1",
-      "league_name": "German Bundesliga",
-      "date": "2026-11-22T14:30Z",
-      "name": "Mainz at FC Augsburg",
-      "status": "in",
-      "state": "in",
-      "minute": "84'",
-      "home_team": {
-        "name": "FC Augsburg",
-        "abbreviation": "FCA",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png"
-      },
-      "away_team": {
-        "name": "Mainz",
-        "abbreviation": "M05",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png"
-      },
-      "home_score": 3,
-      "away_score": 1,
-      "venue": "WWK Arena",
-      "broadcast": "Fandango"
-    },
     {
       "id": "401884730",
       "league_id": "ger.1",
       "league_name": "German Bundesliga",
       "date": "2026-11-22T16:30Z",
       "name": "Hamburg SV at Werder Bremen",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "33'",
       "home_team": {
         "name": "Werder Bremen",
         "abbreviation": "SVW",
@@ -50,8 +26,8 @@
         "abbreviation": "HSV",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "Weserstadion",
       "broadcast": "Fandango"
     },
