@@ -1,7 +1,7 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-22T11:09:54.827Z",
+  "last_update": "2026-11-22T11:53:37.891Z",
   "total_matches": 12,
   "total_leagues": 1,
   "league_id": "tur.1",
@@ -15,7 +15,7 @@
       "name": "Goztepe at Erzurum BB",
       "status": "in",
       "state": "in",
-      "minute": "39'",
+      "minute": "61'",
       "home_team": {
         "name": "Erzurum BB",
         "abbreviation": "ERZ",
