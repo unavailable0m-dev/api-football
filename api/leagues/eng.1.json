@@ -1,7 +1,7 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-22T14:33:54.193Z",
+  "last_update": "2026-11-22T15:25:16.294Z",
   "total_matches": 13,
   "total_leagues": 1,
   "league_id": "eng.1",
@@ -15,7 +15,7 @@
       "name": "Brighton & Hove Albion at Hull City",
       "status": "in",
       "state": "in",
-      "minute": "32'",
+      "minute": "63'",
       "home_team": {
         "name": "Hull City",
         "abbreviation": "HUL",
