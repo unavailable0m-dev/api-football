@@ -1,36 +1,12 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-22T17:47:29.302Z",
-  "total_matches": 11,
+  "last_update": "2026-11-22T18:27:02.539Z",
+  "total_matches": 10,
   "total_leagues": 1,
   "league_id": "fra.1",
   "league_name": "French Ligue 1",
   "matches": [
-    {
-      "id": "401876401",
-      "league_id": "fra.1",
-      "league_name": "French Ligue 1",
-      "date": "2026-11-22T16:15Z",
-      "name": "Stade Rennais at Lorient",
-      "status": "in",
-      "state": "in",
-      "minute": "74'",
-      "home_team": {
-        "name": "Lorient",
-        "abbreviation": "LOR",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png"
-      },
-      "away_team": {
-        "name": "Stade Rennais",
-        "abbreviation": "REN",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
-      },
-      "home_score": 1,
-      "away_score": 1,
-      "venue": "Stade du Moustoir - Yves Allainmat",
-      "broadcast": "beIn Sports"
-    },
     {
       "id": "401876400",
       "league_id": "fra.1",

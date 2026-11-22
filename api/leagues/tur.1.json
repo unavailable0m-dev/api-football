@@ -1,36 +1,12 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-22T17:47:29.302Z",
-  "total_matches": 9,
+  "last_update": "2026-11-22T18:27:02.539Z",
+  "total_matches": 8,
   "total_leagues": 1,
   "league_id": "tur.1",
   "league_name": "Turkish Super Lig",
   "matches": [
-    {
-      "id": "401888249",
-      "league_id": "tur.1",
-      "league_name": "Turkish Super Lig",
-      "date": "2026-11-22T16:00Z",
-      "name": "Eyupspor at Trabzonspor",
-      "status": "in",
-      "state": "in",
-      "minute": "89'",
-      "home_team": {
-        "name": "Trabzonspor",
-        "abbreviation": "TRAB",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png"
-      },
-      "away_team": {
-        "name": "Eyupspor",
-        "abbreviation": "EYU",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20729.png"
-      },
-      "home_score": 1,
-      "away_score": 0,
-      "venue": "Papara Park",
-      "broadcast": null
-    },
     {
       "id": "401888370",
       "league_id": "tur.1",

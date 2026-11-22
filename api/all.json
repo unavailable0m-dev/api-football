@@ -2,83 +2,11 @@
   "source": "ESPN",
   "stale": false,
   "last_update": "2026-11-21T18:20:46.493Z",
-  "total_matches": 143,
+  "total_matches": 140,
   "total_leagues": 12,
   "league_id": null,
   "league_name": null,
   "matches": [
-    {
-      "id": "401888249",
-      "league_id": "tur.1",
-      "league_name": "Turkish Super Lig",
-      "date": "2026-11-22T16:00Z",
-      "name": "Eyupspor at Trabzonspor",
-      "status": "in",
-      "state": "in",
-      "minute": "89'",
-      "home_team": {
-        "name": "Trabzonspor",
-        "abbreviation": "TRAB",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png"
-      },
-      "away_team": {
-        "name": "Eyupspor",
-        "abbreviation": "EYU",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20729.png"
-      },
-      "home_score": 1,
-      "away_score": 0,
-      "venue": "Papara Park",
-      "broadcast": null
-    },
-    {
-      "id": "401876401",
-      "league_id": "fra.1",
-      "league_name": "French Ligue 1",
-      "date": "2026-11-22T16:15Z",
-      "name": "Stade Rennais at Lorient",
-      "status": "in",
-      "state": "in",
-      "minute": "74'",
-      "home_team": {
-        "name": "Lorient",
-        "abbreviation": "LOR",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png"
-      },
-      "away_team": {
-        "name": "Stade Rennais",
-        "abbreviation": "REN",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
-      },
-      "home_score": 1,
-      "away_score": 1,
-      "venue": "Stade du Moustoir - Yves Allainmat",
-      "broadcast": "beIn Sports"
-    },
-    {
-      "id": "401878755",
-      "league_id": "eng.1",
-      "league_name": "English Premier League",
-      "date": "2026-11-22T16:30Z",
-      "name": "Manchester United at Liverpool",
-      "status": "in",
-      "state": "in",
-      "minute": "58'",
-      "home_team": {
-        "name": "Liverpool",
-        "abbreviation": "LIV",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
-      },
-      "away_team": {
-        "name": "Manchester United",
-        "abbreviation": "MAN",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
-      },
-      "home_score": 2,
-      "away_score": 0,
-      "venue": "Anfield",
-      "broadcast": "USA Net, Tele"
-    },
     {
       "id": "401884730",
       "league_id": "ger.1",
@@ -87,7 +15,7 @@
       "name": "Hamburg SV at Werder Bremen",
       "status": "in",
       "state": "in",
-      "minute": "52'",
+      "minute": "90'+1'",
       "home_team": {
         "name": "Werder Bremen",
         "abbreviation": "SVW",
@@ -98,7 +26,7 @@
         "abbreviation": "HSV",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png"
       },
-      "home_score": 0,
+      "home_score": 3,
       "away_score": 0,
       "venue": "Weserstadion",
       "broadcast": "Fandango"
@@ -111,7 +39,7 @@
       "name": "Frosinone at AC Milan",
       "status": "in",
       "state": "in",
-      "minute": "45'+1'",
+      "minute": "67'",
       "home_team": {
         "name": "AC Milan",
         "abbreviation": "MIL",
@@ -122,7 +50,7 @@
         "abbreviation": "FRO",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png"
       },
-      "home_score": 2,
+      "home_score": 4,
       "away_score": 1,
       "venue": "San Siro",
       "broadcast": "Paramount+"
@@ -135,7 +63,7 @@
       "name": "Málaga at Osasuna",
       "status": "in",
       "state": "in",
-      "minute": "17'",
+      "minute": "45'+1'",
       "home_team": {
         "name": "Osasuna",
         "abbreviation": "OSA",
@@ -146,7 +74,7 @@
         "abbreviation": "MCF",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png"
       },
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
       "venue": "El Sadar",
       "broadcast": "ESPN Deportes, ESPN+"
