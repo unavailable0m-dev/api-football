@@ -1,36 +1,12 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-23T21:24:44.037Z",
-  "total_matches": 11,
+  "last_update": "2026-11-23T22:19:28.811Z",
+  "total_matches": 10,
   "total_leagues": 1,
   "league_id": "esp.1",
   "league_name": "Spanish LALIGA",
   "matches": [
-    {
-      "id": "401882802",
-      "league_id": "esp.1",
-      "league_name": "Spanish LALIGA",
-      "date": "2026-11-23T20:00Z",
-      "name": "Elche at Levante",
-      "status": "in",
-      "state": "in",
-      "minute": "65'",
-      "home_team": {
-        "name": "Levante",
-        "abbreviation": "LEV",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png"
-      },
-      "away_team": {
-        "name": "Elche",
-        "abbreviation": "ELC",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png"
-      },
-      "home_score": 0,
-      "away_score": 1,
-      "venue": "Estadi Ciutat de València",
-      "broadcast": "ESPN Deportes, ESPN+"
-    },
     {
       "id": "401882791",
       "league_id": "esp.1",
