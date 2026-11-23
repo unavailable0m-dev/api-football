@@ -13,9 +13,9 @@
       "league_name": "Italian Serie A",
       "date": "2026-11-23T19:45Z",
       "name": "Fiorentina at Monza",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "44'",
       "home_team": {
         "name": "Monza",
         "abbreviation": "MON",
@@ -26,8 +26,8 @@
         "abbreviation": "FIO",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "U-Power Stadium",
       "broadcast": "Paramount+"
     },
@@ -37,9 +37,9 @@
       "league_name": "English Premier League",
       "date": "2026-11-23T20:00Z",
       "name": "Everton at Brentford",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "29'",
       "home_team": {
         "name": "Brentford",
         "abbreviation": "BRE",
@@ -50,8 +50,8 @@
         "abbreviation": "EVE",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 2,
+      "away_score": 0,
       "venue": "Gtech Community Stadium",
       "broadcast": "USA Net"
     },
@@ -61,9 +61,9 @@
       "league_name": "Spanish LALIGA",
       "date": "2026-11-23T20:00Z",
       "name": "Elche at Levante",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "28'",
       "home_team": {
         "name": "Levante",
         "abbreviation": "LEV",
@@ -74,8 +74,8 @@
         "abbreviation": "ELC",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "Estadi Ciutat de València",
       "broadcast": "ESPN Deportes, ESPN+"
     },

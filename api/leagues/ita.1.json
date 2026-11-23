@@ -1,7 +1,7 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-23T00:01:52.556Z",
+  "last_update": "2026-11-23T20:29:34.902Z",
   "total_matches": 11,
   "total_leagues": 1,
   "league_id": "ita.1",
@@ -13,9 +13,9 @@
       "league_name": "Italian Serie A",
       "date": "2026-11-23T19:45Z",
       "name": "Fiorentina at Monza",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "44'",
       "home_team": {
         "name": "Monza",
         "abbreviation": "MON",
@@ -26,8 +26,8 @@
         "abbreviation": "FIO",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "U-Power Stadium",
       "broadcast": "Paramount+"
     },
