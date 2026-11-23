@@ -1,11 +1,11 @@
 {
-  "last_attempt": "2026-11-23T18:31:56.789Z",
+  "last_attempt": "2026-11-23T19:39:03.465Z",
   "source": "ESPN",
   "leagues": {
-    "eng.1": {
+    "esp.1": {
       "status": "ok",
-      "last_success": "2026-11-23T18:31:56.789Z",
-      "last_change": "2026-11-22T18:27:02.539Z",
+      "last_success": "2026-11-23T19:39:03.465Z",
+      "last_change": "2026-11-23T00:01:52.556Z",
       "error": null,
       "minimum_upcoming": 5,
       "upcoming_count": 11,
@@ -15,10 +15,10 @@
       "searched_until": "20261130",
       "calendar_end": "2027-06-01T03:59Z"
     },
-    "esp.1": {
+    "eng.1": {
       "status": "ok",
-      "last_success": "2026-11-23T18:31:56.789Z",
-      "last_change": "2026-11-23T00:01:52.556Z",
+      "last_success": "2026-11-23T19:39:03.465Z",
+      "last_change": "2026-11-22T18:27:02.539Z",
       "error": null,
       "minimum_upcoming": 5,
       "upcoming_count": 11,
@@ -30,7 +30,7 @@
     },
     "ita.1": {
       "status": "ok",
-      "last_success": "2026-11-23T18:31:56.789Z",
+      "last_success": "2026-11-23T19:39:03.465Z",
       "last_change": "2026-11-23T00:01:52.556Z",
       "error": null,
       "minimum_upcoming": 5,
@@ -41,22 +41,9 @@
       "searched_until": "20261130",
       "calendar_end": "2027-07-01T03:59Z"
     },
-    "fra.1": {
-      "status": "ok",
-      "last_success": "2026-11-23T18:31:56.789Z",
-      "last_change": "2026-11-22T21:48:51.387Z",
-      "error": null,
-      "minimum_upcoming": 5,
-      "upcoming_count": 9,
-      "upcoming_shortfall": 0,
-      "discovery": "ESPN season calendar",
-      "queried_dates": 9,
-      "searched_until": "20261130",
-      "calendar_end": "2027-06-01T03:59Z"
-    },
     "ger.1": {
       "status": "ok",
-      "last_success": "2026-11-23T18:31:56.789Z",
+      "last_success": "2026-11-23T19:39:03.465Z",
       "last_change": "2026-11-22T19:27:02.686Z",
       "error": null,
       "minimum_upcoming": 5,
@@ -67,9 +54,22 @@
       "searched_until": "20261130",
       "calendar_end": "2027-07-01T03:59Z"
     },
+    "fra.1": {
+      "status": "ok",
+      "last_success": "2026-11-23T19:39:03.465Z",
+      "last_change": "2026-11-22T21:48:51.387Z",
+      "error": null,
+      "minimum_upcoming": 5,
+      "upcoming_count": 9,
+      "upcoming_shortfall": 0,
+      "discovery": "ESPN season calendar",
+      "queried_dates": 9,
+      "searched_until": "20261130",
+      "calendar_end": "2027-06-01T03:59Z"
+    },
     "uefa.champions": {
       "status": "ok",
-      "last_success": "2026-11-23T18:31:56.789Z",
+      "last_success": "2026-11-23T19:39:03.465Z",
       "last_change": "2026-11-21T18:20:46.493Z",
       "error": null,
       "minimum_upcoming": 5,
@@ -82,7 +82,7 @@
     },
     "uefa.europa": {
       "status": "ok",
-      "last_success": "2026-11-23T18:31:56.789Z",
+      "last_success": "2026-11-23T19:39:03.465Z",
       "last_change": "2026-11-21T18:20:46.493Z",
       "error": null,
       "minimum_upcoming": 5,
@@ -95,7 +95,7 @@
     },
     "uefa.europa.conf": {
       "status": "ok",
-      "last_success": "2026-11-23T18:31:56.789Z",
+      "last_success": "2026-11-23T19:39:03.465Z",
       "last_change": "2026-11-21T18:20:46.493Z",
       "error": null,
       "minimum_upcoming": 5,
@@ -108,7 +108,7 @@
     },
     "por.1": {
       "status": "ok",
-      "last_success": "2026-11-23T18:31:56.789Z",
+      "last_success": "2026-11-23T19:39:03.465Z",
       "last_change": "2026-11-23T00:01:52.556Z",
       "error": null,
       "minimum_upcoming": 5,
@@ -121,7 +121,7 @@
     },
     "ned.1": {
       "status": "ok",
-      "last_success": "2026-11-23T18:31:56.789Z",
+      "last_success": "2026-11-23T19:39:03.465Z",
       "last_change": "2026-11-22T17:47:29.302Z",
       "error": null,
       "minimum_upcoming": 5,
@@ -134,8 +134,8 @@
     },
     "tur.1": {
       "status": "ok",
-      "last_success": "2026-11-23T18:31:56.789Z",
-      "last_change": "2026-11-23T18:31:56.789Z",
+      "last_success": "2026-11-23T19:39:03.465Z",
+      "last_change": "2026-11-23T19:39:03.465Z",
       "error": null,
       "minimum_upcoming": 5,
       "upcoming_count": 9,
@@ -147,7 +147,7 @@
     },
     "sco.1": {
       "status": "ok",
-      "last_success": "2026-11-23T18:31:56.789Z",
+      "last_success": "2026-11-23T19:39:03.465Z",
       "last_change": "2026-11-22T00:19:36.527Z",
       "error": null,
       "minimum_upcoming": 5,

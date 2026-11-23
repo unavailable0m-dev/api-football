@@ -1,36 +1,12 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-23T18:31:56.789Z",
-  "total_matches": 10,
+  "last_update": "2026-11-23T19:39:03.465Z",
+  "total_matches": 9,
   "total_leagues": 1,
   "league_id": "tur.1",
   "league_name": "Turkish Super Lig",
   "matches": [
-    {
-      "id": "401888370",
-      "league_id": "tur.1",
-      "league_name": "Turkish Super Lig",
-      "date": "2026-11-23T17:00Z",
-      "name": "Çorum FK at Istanbul Basaksehir",
-      "status": "in",
-      "state": "in",
-      "minute": "71'",
-      "home_team": {
-        "name": "Istanbul Basaksehir",
-        "abbreviation": "IBFK",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7914.png"
-      },
-      "away_team": {
-        "name": "Çorum FK",
-        "abbreviation": "COR",
-        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132334.png"
-      },
-      "home_score": 0,
-      "away_score": 2,
-      "venue": "Basaksehir Fatih Terim Stadium",
-      "broadcast": null
-    },
     {
       "id": "401888240",
       "league_id": "tur.1",
