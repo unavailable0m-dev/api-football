@@ -15,7 +15,7 @@
       "name": "Çorum FK at Istanbul Basaksehir",
       "status": "in",
       "state": "in",
-      "minute": "37'",
+      "minute": "71'",
       "home_team": {
         "name": "Istanbul Basaksehir",
         "abbreviation": "IBFK",
@@ -27,7 +27,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132334.png"
       },
       "home_score": 0,
-      "away_score": 1,
+      "away_score": 2,
       "venue": "Basaksehir Fatih Terim Stadium",
       "broadcast": null
     },
