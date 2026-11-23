@@ -13,9 +13,9 @@
       "league_name": "Turkish Super Lig",
       "date": "2026-11-23T17:00Z",
       "name": "Çorum FK at Istanbul Basaksehir",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "37'",
       "home_team": {
         "name": "Istanbul Basaksehir",
         "abbreviation": "IBFK",
@@ -26,8 +26,8 @@
         "abbreviation": "COR",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/132334.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 1,
       "venue": "Basaksehir Fatih Terim Stadium",
       "broadcast": null
     },
