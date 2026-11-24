@@ -15,7 +15,7 @@
       "name": "Dundee at Hibernian",
       "status": "in",
       "state": "in",
-      "minute": "45'+2'",
+      "minute": "90'+4'",
       "home_team": {
         "name": "Hibernian",
         "abbreviation": "HIBS",
@@ -27,7 +27,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/261.png"
       },
       "home_score": 2,
-      "away_score": 0,
+      "away_score": 1,
       "venue": "Easter Road",
       "broadcast": null
     },
@@ -39,7 +39,7 @@
       "name": "Aberdeen at Rangers",
       "status": "in",
       "state": "in",
-      "minute": "34'",
+      "minute": "75'",
       "home_team": {
         "name": "Rangers",
         "abbreviation": "RAN",
@@ -50,8 +50,8 @@
         "abbreviation": "ABE",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/263.png"
       },
-      "home_score": 0,
-      "away_score": 1,
+      "home_score": 3,
+      "away_score": 2,
       "venue": "Ibrox Stadium",
       "broadcast": null
     },
@@ -63,7 +63,7 @@
       "name": "FC Porto at Feyenoord Rotterdam",
       "status": "in",
       "state": "in",
-      "minute": "35'",
+      "minute": "75'",
       "home_team": {
         "name": "Feyenoord Rotterdam",
         "abbreviation": "FEY",
@@ -87,7 +87,7 @@
       "name": "Borussia Dortmund at Arsenal",
       "status": "in",
       "state": "in",
-      "minute": "36'",
+      "minute": "80'",
       "home_team": {
         "name": "Arsenal",
         "abbreviation": "ARS",
@@ -99,7 +99,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png"
       },
       "home_score": 1,
-      "away_score": 0,
+      "away_score": 1,
       "venue": "Emirates Stadium",
       "broadcast": "Paramount+"
     },
@@ -111,7 +111,7 @@
       "name": "AEK Athens at Como",
       "status": "in",
       "state": "in",
-      "minute": "34'",
+      "minute": "75'",
       "home_team": {
         "name": "Como",
         "abbreviation": "COMO",
@@ -122,7 +122,7 @@
         "abbreviation": "AEK",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png"
       },
-      "home_score": 0,
+      "home_score": 1,
       "away_score": 0,
       "venue": "Giuseppe Sinigaglia",
       "broadcast": "Paramount+"
@@ -135,7 +135,7 @@
       "name": "Real Betis at Slovan Bratislava",
       "status": "in",
       "state": "in",
-      "minute": "36'",
+      "minute": "79'",
       "home_team": {
         "name": "Slovan Bratislava",
         "abbreviation": "SLB",
@@ -147,7 +147,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
       },
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 2,
       "venue": "Národny Futbalovy Stadión",
       "broadcast": "Paramount+"
     },
@@ -159,7 +159,7 @@
       "name": "PSV Eindhoven at Real Madrid",
       "status": "in",
       "state": "in",
-      "minute": "37'",
+      "minute": "76'",
       "home_team": {
         "name": "Real Madrid",
         "abbreviation": "RMA",
@@ -170,7 +170,7 @@
         "abbreviation": "PSV",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png"
       },
-      "home_score": 0,
+      "home_score": 3,
       "away_score": 1,
       "venue": "Santiago Bernabéu",
       "broadcast": "Paramount+"
@@ -183,7 +183,7 @@
       "name": "Lens at RB Leipzig",
       "status": "in",
       "state": "in",
-      "minute": "36'",
+      "minute": "79'",
       "home_team": {
         "name": "RB Leipzig",
         "abbreviation": "RBL",
@@ -195,7 +195,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
       },
       "home_score": 2,
-      "away_score": 0,
+      "away_score": 1,
       "venue": "Red Bull Arena",
       "broadcast": "Paramount+"
     },
@@ -207,7 +207,7 @@
       "name": "Napoli at Manchester City",
       "status": "in",
       "state": "in",
-      "minute": "35'",
+      "minute": "78'",
       "home_team": {
         "name": "Manchester City",
         "abbreviation": "MNC",
@@ -218,8 +218,8 @@
         "abbreviation": "NAP",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
       },
-      "home_score": 0,
-      "away_score": 0,
+      "home_score": 1,
+      "away_score": 2,
       "venue": "Etihad Stadium",
       "broadcast": "Paramount+"
     },
