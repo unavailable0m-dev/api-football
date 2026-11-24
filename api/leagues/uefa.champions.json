@@ -1,5 +1,7 @@
 {
-  "last_update": "2026-11-21T18:20:46.493Z",
+  "source": "ESPN",
+  "stale": false,
+  "last_update": "2026-11-24T18:39:12.284Z",
   "total_matches": 18,
   "total_leagues": 1,
   "league_id": "uefa.champions",
@@ -11,9 +13,9 @@
       "league_name": "UEFA Champions League",
       "date": "2026-11-24T17:45Z",
       "name": "Aston Villa at Galatasaray",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "45'",
       "home_team": {
         "name": "Galatasaray",
         "abbreviation": "GAL",
@@ -24,8 +26,8 @@
         "abbreviation": "AVL",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "RAMS Park",
       "broadcast": "Paramount+"
     },
@@ -35,9 +37,9 @@
       "league_name": "UEFA Champions League",
       "date": "2026-11-24T17:45Z",
       "name": "LASK Linz at Bodo/Glimt",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "45'",
       "home_team": {
         "name": "Bodo/Glimt",
         "abbreviation": "BODO",
@@ -48,8 +50,8 @@
         "abbreviation": "LAS",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4411.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "Aspmyra Stadion",
       "broadcast": "Paramount+"
     },
@@ -437,6 +439,5 @@
       "venue": "Decathlon Arena - Stade Pierre-Mauroy",
       "broadcast": "Paramount+"
     }
-  ],
-  "stale": false
+  ]
 }
