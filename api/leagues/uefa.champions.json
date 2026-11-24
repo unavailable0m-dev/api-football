@@ -1,7 +1,7 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-24T19:45:19.375Z",
+  "last_update": "2026-11-24T20:36:43.348Z",
   "total_matches": 16,
   "total_leagues": 1,
   "league_id": "uefa.champions",
@@ -13,9 +13,9 @@
       "league_name": "UEFA Champions League",
       "date": "2026-11-24T20:00Z",
       "name": "FC Porto at Feyenoord Rotterdam",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "35'",
       "home_team": {
         "name": "Feyenoord Rotterdam",
         "abbreviation": "FEY",
@@ -26,8 +26,8 @@
         "abbreviation": "FCP",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 1,
       "venue": "De Kuip",
       "broadcast": "Paramount+"
     },
@@ -37,9 +37,9 @@
       "league_name": "UEFA Champions League",
       "date": "2026-11-24T20:00Z",
       "name": "Borussia Dortmund at Arsenal",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "36'",
       "home_team": {
         "name": "Arsenal",
         "abbreviation": "ARS",
@@ -50,8 +50,8 @@
         "abbreviation": "DOR",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 1,
+      "away_score": 0,
       "venue": "Emirates Stadium",
       "broadcast": "Paramount+"
     },
@@ -61,9 +61,9 @@
       "league_name": "UEFA Champions League",
       "date": "2026-11-24T20:00Z",
       "name": "AEK Athens at Como",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "34'",
       "home_team": {
         "name": "Como",
         "abbreviation": "COMO",
@@ -74,8 +74,8 @@
         "abbreviation": "AEK",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/887.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "Giuseppe Sinigaglia",
       "broadcast": "Paramount+"
     },
@@ -85,9 +85,9 @@
       "league_name": "UEFA Champions League",
       "date": "2026-11-24T20:00Z",
       "name": "Real Betis at Slovan Bratislava",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "36'",
       "home_team": {
         "name": "Slovan Bratislava",
         "abbreviation": "SLB",
@@ -98,8 +98,8 @@
         "abbreviation": "BET",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "Národny Futbalovy Stadión",
       "broadcast": "Paramount+"
     },
@@ -109,9 +109,9 @@
       "league_name": "UEFA Champions League",
       "date": "2026-11-24T20:00Z",
       "name": "PSV Eindhoven at Real Madrid",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "37'",
       "home_team": {
         "name": "Real Madrid",
         "abbreviation": "RMA",
@@ -122,8 +122,8 @@
         "abbreviation": "PSV",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/148.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 1,
       "venue": "Santiago Bernabéu",
       "broadcast": "Paramount+"
     },
@@ -133,9 +133,9 @@
       "league_name": "UEFA Champions League",
       "date": "2026-11-24T20:00Z",
       "name": "Lens at RB Leipzig",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "36'",
       "home_team": {
         "name": "RB Leipzig",
         "abbreviation": "RBL",
@@ -146,8 +146,8 @@
         "abbreviation": "RCL",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 2,
+      "away_score": 0,
       "venue": "Red Bull Arena",
       "broadcast": "Paramount+"
     },
@@ -157,9 +157,9 @@
       "league_name": "UEFA Champions League",
       "date": "2026-11-24T20:00Z",
       "name": "Napoli at Manchester City",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "35'",
       "home_team": {
         "name": "Manchester City",
         "abbreviation": "MNC",
@@ -170,8 +170,8 @@
         "abbreviation": "NAP",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 0,
       "venue": "Etihad Stadium",
       "broadcast": "Paramount+"
     },

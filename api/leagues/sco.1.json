@@ -1,7 +1,7 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-22T00:19:36.527Z",
+  "last_update": "2026-11-24T20:36:43.348Z",
   "total_matches": 8,
   "total_leagues": 1,
   "league_id": "sco.1",
@@ -13,9 +13,9 @@
       "league_name": "Scottish Premiership",
       "date": "2026-11-24T19:45Z",
       "name": "Dundee at Hibernian",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "45'+2'",
       "home_team": {
         "name": "Hibernian",
         "abbreviation": "HIBS",
@@ -26,8 +26,8 @@
         "abbreviation": "DUN",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/261.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 2,
+      "away_score": 0,
       "venue": "Easter Road",
       "broadcast": null
     },
@@ -37,9 +37,9 @@
       "league_name": "Scottish Premiership",
       "date": "2026-11-24T20:00Z",
       "name": "Aberdeen at Rangers",
-      "status": "pre",
-      "state": "pre",
-      "minute": null,
+      "status": "in",
+      "state": "in",
+      "minute": "34'",
       "home_team": {
         "name": "Rangers",
         "abbreviation": "RAN",
@@ -50,8 +50,8 @@
         "abbreviation": "ABE",
         "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/263.png"
       },
-      "home_score": null,
-      "away_score": null,
+      "home_score": 0,
+      "away_score": 1,
       "venue": "Ibrox Stadium",
       "broadcast": null
     },
