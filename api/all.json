@@ -2,7 +2,7 @@
   "source": "ESPN",
   "stale": false,
   "last_update": "2026-11-21T18:20:46.493Z",
-  "total_matches": 137,
+  "total_matches": 138,
   "total_leagues": 12,
   "league_id": null,
   "league_name": null,
@@ -3293,6 +3293,30 @@
       "home_score": null,
       "away_score": null,
       "venue": "Estádio Municipal de Rio Maior",
+      "broadcast": null
+    },
+    {
+      "id": "401879221",
+      "league_id": "eng.1",
+      "league_name": "English Premier League",
+      "date": "2026-12-01T20:00Z",
+      "name": "Ipswich Town at Coventry City",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Coventry City",
+        "abbreviation": "COV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png"
+      },
+      "away_team": {
+        "name": "Ipswich Town",
+        "abbreviation": "IPS",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Coventry Building Society Arena",
       "broadcast": null
     }
   ]
