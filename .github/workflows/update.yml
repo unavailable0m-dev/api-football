@@ -31,7 +31,7 @@ jobs:
           fail=0
           for i in 1 2 3 4 5 6 7 8 9 10 11; do
             npm run update || fail=1
-            git add api/*.json api/leagues/*.json
+            git add -A api
             if ! git diff --cached --quiet; then
               git commit -m 'Update verified ESPN snapshots'
               git pull --rebase -q || true

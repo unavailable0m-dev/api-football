@@ -11,6 +11,13 @@ export function createHandler(fetchImpl=fetch,clock=Date.now){const memory=new M
  if(req.method==='OPTIONS'){res.statusCode=204;res.end();return;}
  if(req.method!=='GET'&&req.method!=='HEAD'){res.statusCode=405;res.setHeader('Allow','GET, HEAD, OPTIONS');res.end(JSON.stringify({error:'Method not allowed'}));return;}
  const url=new URL(req.url,'http://localhost');const segments=url.pathname.split('/').filter(Boolean);
+ const KINDS=['standings','scorers','teams','news','matches'];
+ if(segments.length===3&&segments[0]==='api'&&KINDS.includes(segments[1])&&/^[A-Za-z0-9._-]+$/.test(segments[2])&&(segments[1]==='matches'||supported(segments[2]))){
+  try{const d=await cached(`${segments[1]}/${segments[2]}.json`,fetchImpl,clock(),memory);res.setHeader('Cache-Control','public, max-age=30, s-maxage=30');res.statusCode=200;res.end(req.method==='HEAD'?undefined:JSON.stringify(d.body));}
+  catch{res.statusCode=404;res.end(JSON.stringify({error:'Not found'}));}
+  return;
+ }
+ if(segments.length===2&&segments[0]==='api'&&segments[1]==='health'){try{const d=await cached('health.json',fetchImpl,clock(),memory);res.statusCode=200;res.end(JSON.stringify(d.body));}catch{res.statusCode=503;res.end(JSON.stringify({error:'unavailable'}));}return;}
  const id=segments.length===2&&segments[0]==='api'?segments[1]:null;
  if(id!=='all'&&!supported(id)){res.statusCode=404;res.end(JSON.stringify({error:'Unsupported route',supported_leagues:LEAGUE_IDS}));return;}
  try{
