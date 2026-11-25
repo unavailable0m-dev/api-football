@@ -14,7 +14,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 58
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -22,19 +22,24 @@ jobs:
           node-version: '22'
       - name: Unit and integration tests
         run: npm test
-      - name: Fetch real ESPN data
+      - name: Refresh ESPN data every 5 minutes for about 55 minutes
         id: fetch
         continue-on-error: true
-        run: npm run update
-      - name: Commit changed snapshots
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add api/*.json api/leagues/*.json
-          if ! git diff --cached --quiet; then
-            git commit -m 'Update verified ESPN snapshots'
-            git push
-          fi
+          fail=0
+          for i in 1 2 3 4 5 6 7 8 9 10 11; do
+            npm run update || fail=1
+            git add api/*.json api/leagues/*.json
+            if ! git diff --cached --quiet; then
+              git commit -m 'Update verified ESPN snapshots'
+              git pull --rebase -q || true
+              git push || git push || true
+            fi
+            if [ "$i" -lt 11 ]; then sleep 270; fi
+          done
+          exit $fail
       - name: Report upstream failure after saving healthy leagues
         if: steps.fetch.outcome == 'failure'
         run: exit 1
