@@ -1,7 +1,7 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-22T21:48:51.387Z",
+  "last_update": "2026-11-25T03:47:28.598Z",
   "total_matches": 9,
   "total_leagues": 1,
   "league_id": "fra.1",
@@ -29,7 +29,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Stade Francis-Le Blé",
-      "broadcast": null
+      "broadcast": "beIn Sports"
     },
     {
       "id": "401876394",
@@ -53,7 +53,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Stade Raymond Kopa",
-      "broadcast": null
+      "broadcast": "beIn Sports"
     },
     {
       "id": "401876387",
@@ -77,7 +77,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Parc des Princes",
-      "broadcast": null
+      "broadcast": "beIn Sports"
     },
     {
       "id": "401876388",
@@ -101,7 +101,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Allianz Riviera",
-      "broadcast": null
+      "broadcast": "beIn Sports"
     },
     {
       "id": "401876390",
@@ -125,7 +125,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Stade Marie-Marvingt",
-      "broadcast": null
+      "broadcast": "beIn Sports"
     },
     {
       "id": "401876391",
@@ -149,7 +149,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Stade Océane",
-      "broadcast": null
+      "broadcast": "beIn Sports"
     },
     {
       "id": "401876393",
@@ -173,7 +173,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Stade de l'Abbé-Deschamps",
-      "broadcast": null
+      "broadcast": "beIn Sports"
     },
     {
       "id": "401876386",
@@ -197,7 +197,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Stadium Municipal de Toulouse",
-      "broadcast": null
+      "broadcast": "beIn Sports"
     },
     {
       "id": "401876389",
@@ -221,7 +221,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Groupama Stadium",
-      "broadcast": null
+      "broadcast": "beIn Sports"
     }
   ]
 }

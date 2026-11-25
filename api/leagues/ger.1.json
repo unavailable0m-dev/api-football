@@ -1,7 +1,7 @@
 {
   "source": "ESPN",
   "stale": false,
-  "last_update": "2026-11-22T19:27:02.686Z",
+  "last_update": "2026-11-25T03:47:28.598Z",
   "total_matches": 9,
   "total_leagues": 1,
   "league_id": "ger.1",
@@ -29,7 +29,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Weserstadion",
-      "broadcast": null
+      "broadcast": "Fandango"
     },
     {
       "id": "401884719",
@@ -53,7 +53,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Home Deluxe Arena",
-      "broadcast": null
+      "broadcast": "Fandango"
     },
     {
       "id": "401884721",
@@ -77,7 +77,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "RheinEnergieStadion",
-      "broadcast": null
+      "broadcast": "Fandango"
     },
     {
       "id": "401884722",
@@ -101,7 +101,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Volksparkstadion",
-      "broadcast": null
+      "broadcast": "Fandango"
     },
     {
       "id": "401884723",
@@ -125,7 +125,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "MEWA ARENA",
-      "broadcast": null
+      "broadcast": "Fandango"
     },
     {
       "id": "401884726",
@@ -149,7 +149,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "MHPArena",
-      "broadcast": null
+      "broadcast": "Fandango"
     },
     {
       "id": "401884724",
@@ -173,7 +173,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Europa-Park Stadion",
-      "broadcast": null
+      "broadcast": "Fandango"
     },
     {
       "id": "401884725",
@@ -197,7 +197,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "PreZero Arena",
-      "broadcast": null
+      "broadcast": "Fandango"
     },
     {
       "id": "401884727",
@@ -221,7 +221,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Signal Iduna Park",
-      "broadcast": null
+      "broadcast": "Fandango"
     }
   ]
 }
