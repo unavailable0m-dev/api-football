@@ -2,7 +2,7 @@
   "source": "ESPN",
   "stale": false,
   "last_update": "2026-11-21T18:20:46.493Z",
-  "total_matches": 127,
+  "total_matches": 143,
   "total_leagues": 12,
   "league_id": null,
   "league_name": null,
@@ -3054,6 +3054,390 @@
       "away_score": null,
       "venue": "Coventry Building Society Arena",
       "broadcast": null
+    },
+    {
+      "id": "401882698",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-12-02T18:00Z",
+      "name": "Real Madrid at Real Sociedad",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Real Sociedad",
+        "abbreviation": "RSO",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
+      },
+      "away_team": {
+        "name": "Real Madrid",
+        "abbreviation": "RMA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Reale Arena",
+      "broadcast": "ESPN2, ESPN Deportes, ESPN+"
+    },
+    {
+      "id": "401879218",
+      "league_id": "eng.1",
+      "league_name": "English Premier League",
+      "date": "2026-12-02T19:30Z",
+      "name": "Leeds United at Manchester City",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Manchester City",
+        "abbreviation": "MNC",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
+      },
+      "away_team": {
+        "name": "Leeds United",
+        "abbreviation": "LEE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Etihad Stadium",
+      "broadcast": null
+    },
+    {
+      "id": "401879219",
+      "league_id": "eng.1",
+      "league_name": "English Premier League",
+      "date": "2026-12-02T19:30Z",
+      "name": "Sunderland at Liverpool",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Liverpool",
+        "abbreviation": "LIV",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
+      },
+      "away_team": {
+        "name": "Sunderland",
+        "abbreviation": "SUN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Anfield",
+      "broadcast": null
+    },
+    {
+      "id": "401879220",
+      "league_id": "eng.1",
+      "league_name": "English Premier League",
+      "date": "2026-12-02T19:30Z",
+      "name": "Nottingham Forest at Hull City",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Hull City",
+        "abbreviation": "HUL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/306.png"
+      },
+      "away_team": {
+        "name": "Nottingham Forest",
+        "abbreviation": "NFO",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "The MKM Stadium",
+      "broadcast": null
+    },
+    {
+      "id": "401879222",
+      "league_id": "eng.1",
+      "league_name": "English Premier League",
+      "date": "2026-12-02T19:30Z",
+      "name": "Crystal Palace at Chelsea",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Chelsea",
+        "abbreviation": "CHE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
+      },
+      "away_team": {
+        "name": "Crystal Palace",
+        "abbreviation": "CRY",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Stamford Bridge",
+      "broadcast": null
+    },
+    {
+      "id": "401878321",
+      "league_id": "sco.1",
+      "league_name": "Scottish Premiership",
+      "date": "2026-12-02T19:45Z",
+      "name": "St Mirren at St Johnstone",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "St Johnstone",
+        "abbreviation": "STJ",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/267.png"
+      },
+      "away_team": {
+        "name": "St Mirren",
+        "abbreviation": "STM",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/250.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "McDiarmid Park",
+      "broadcast": null
+    },
+    {
+      "id": "401878322",
+      "league_id": "sco.1",
+      "league_name": "Scottish Premiership",
+      "date": "2026-12-02T19:45Z",
+      "name": "Dundee United at Rangers",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Rangers",
+        "abbreviation": "RAN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/257.png"
+      },
+      "away_team": {
+        "name": "Dundee United",
+        "abbreviation": "DUN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/264.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Ibrox Stadium",
+      "broadcast": null
+    },
+    {
+      "id": "401878323",
+      "league_id": "sco.1",
+      "league_name": "Scottish Premiership",
+      "date": "2026-12-02T19:45Z",
+      "name": "Hibernian at Kilmarnock",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Kilmarnock",
+        "abbreviation": "KIL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/260.png"
+      },
+      "away_team": {
+        "name": "Hibernian",
+        "abbreviation": "HIBS",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/258.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "The BBSP Stadium",
+      "broadcast": null
+    },
+    {
+      "id": "401878324",
+      "league_id": "sco.1",
+      "league_name": "Scottish Premiership",
+      "date": "2026-12-02T19:45Z",
+      "name": "Aberdeen at Heart of Midlothian",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Heart of Midlothian",
+        "abbreviation": "HOM",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/262.png"
+      },
+      "away_team": {
+        "name": "Aberdeen",
+        "abbreviation": "ABE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/263.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Tynecastle Park",
+      "broadcast": null
+    },
+    {
+      "id": "401878325",
+      "league_id": "sco.1",
+      "league_name": "Scottish Premiership",
+      "date": "2026-12-02T19:45Z",
+      "name": "Motherwell at Falkirk",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Falkirk",
+        "abbreviation": "FALK",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/254.png"
+      },
+      "away_team": {
+        "name": "Motherwell",
+        "abbreviation": "MOT",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/266.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Falkirk Stadium",
+      "broadcast": null
+    },
+    {
+      "id": "401878326",
+      "league_id": "sco.1",
+      "league_name": "Scottish Premiership",
+      "date": "2026-12-02T19:45Z",
+      "name": "Celtic at Dundee",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Dundee",
+        "abbreviation": "DUN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/261.png"
+      },
+      "away_team": {
+        "name": "Celtic",
+        "abbreviation": "CEL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "The Scot Foam Stadium at Dens Park",
+      "broadcast": null
+    },
+    {
+      "id": "401878750",
+      "league_id": "eng.1",
+      "league_name": "English Premier League",
+      "date": "2026-12-02T20:15Z",
+      "name": "Arsenal at Brentford",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Brentford",
+        "abbreviation": "BRE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png"
+      },
+      "away_team": {
+        "name": "Arsenal",
+        "abbreviation": "ARS",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Gtech Community Stadium",
+      "broadcast": null
+    },
+    {
+      "id": "401878751",
+      "league_id": "eng.1",
+      "league_name": "English Premier League",
+      "date": "2026-12-02T20:15Z",
+      "name": "Everton at Aston Villa",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Aston Villa",
+        "abbreviation": "AVL",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
+      },
+      "away_team": {
+        "name": "Everton",
+        "abbreviation": "EVE",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Villa Park",
+      "broadcast": null
+    },
+    {
+      "id": "401879217",
+      "league_id": "eng.1",
+      "league_name": "English Premier League",
+      "date": "2026-12-02T20:15Z",
+      "name": "Manchester United at Newcastle United",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Newcastle United",
+        "abbreviation": "NEW",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png"
+      },
+      "away_team": {
+        "name": "Manchester United",
+        "abbreviation": "MAN",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "St. James' Park",
+      "broadcast": null
+    },
+    {
+      "id": "401879223",
+      "league_id": "eng.1",
+      "league_name": "English Premier League",
+      "date": "2026-12-02T20:15Z",
+      "name": "Brighton & Hove Albion at AFC Bournemouth",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "AFC Bournemouth",
+        "abbreviation": "BOU",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png"
+      },
+      "away_team": {
+        "name": "Brighton & Hove Albion",
+        "abbreviation": "BHA",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Vitality Stadium",
+      "broadcast": null
+    },
+    {
+      "id": "401882700",
+      "league_id": "esp.1",
+      "league_name": "Spanish LALIGA",
+      "date": "2026-12-02T20:30Z",
+      "name": "Atlético Madrid at Barcelona",
+      "status": "pre",
+      "state": "pre",
+      "minute": null,
+      "home_team": {
+        "name": "Barcelona",
+        "abbreviation": "BAR",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
+      },
+      "away_team": {
+        "name": "Atlético Madrid",
+        "abbreviation": "ATM",
+        "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
+      },
+      "home_score": null,
+      "away_score": null,
+      "venue": "Spotify Camp Nou",
+      "broadcast": "ESPN2, ESPN Deportes, ESPN+"
     }
   ]
 }
