@@ -1,5 +1,5 @@
 import {fetchScoreboard} from './espn.js';
-import {normalizeAny,filterMatches,filterResults} from './filterMatches.js';
+import {normalizeAny,filterMatches} from './filterMatches.js';
 const day=d=>d.toISOString().slice(0,10).replaceAll('-','');
 export function dateQueries(previous,now=new Date(),horizon=7){
  const start=new Date(now);start.setUTCDate(start.getUTCDate()-1);
@@ -28,6 +28,5 @@ export async function fetchMatches(id,previous,{now=new Date(),fetcher=fetchScor
  for(const date of candidates){if(upcoming()>=5)break;if(!queried.has(date))await query(date);}
  for(const old of previous?.matches??[])if(!observed.has(old.id))throw new Error(`Previously tracked event ${old.id} absent from ESPN; status unverified`);
  const matches=filterMatches(found),count=matches.filter(m=>m.state==='pre').length;
- const results=filterResults(found).slice(0,40);
- return {league,matches,results,raw,coverage:{minimum_upcoming:5,upcoming_count:count,upcoming_shortfall:Math.max(0,5-count),discovery:validCalendar?'ESPN season calendar':'90-day daily fallback',queried_dates:queried.size,searched_until:[...queried].sort().at(-1),calendar_end:league.calendarEndDate??null}};
+ return {league,matches,raw,coverage:{minimum_upcoming:5,upcoming_count:count,upcoming_shortfall:Math.max(0,5-count),discovery:validCalendar?'ESPN season calendar':'90-day daily fallback',queried_dates:queried.size,searched_until:[...queried].sort().at(-1),calendar_end:league.calendarEndDate??null}};
 }

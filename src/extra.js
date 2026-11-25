@@ -1,4 +1,4 @@
-import {readFile,mkdir,writeFile,rename} from 'node:fs/promises';
+import {readFile,readdir,unlink,mkdir,writeFile,rename} from 'node:fs/promises';
 import {join} from 'node:path';
 import {pool} from './espn.js';
 const SITE='https://site.api.espn.com/apis/site/v2/sports/soccer';
@@ -27,8 +27,8 @@ export async function matchDetails(matches,raws,root,now){
  await pool(matches,4,async m=>{
   const file=join(dir,`${m.id}.json`),old=await readJ(file);
   const hours=(Date.parse(m.date)-now)/36e5;
-  const hot=m.state==='in'||m.state==='post'||hours<72;
-  const fresh=old&&now-Date.parse(old.fetched_at)<(hot?(m.state==='post'&&old.state==='post'?3*36e5:0):6*36e5);
+  const hot=m.state==='in'||hours<72;
+  const fresh=old&&now-Date.parse(old.fetched_at)<(hot?0:6*36e5);
   if(fresh){res.skipped++;return;}
   try{
    const summary=await get(`${SITE}/${m.league_id}/summary?event=${m.id}`);
@@ -37,11 +37,19 @@ export async function matchDetails(matches,raws,root,now){
  });
  return res;
 }
+// Only tracked upcoming/live matches keep a detail file; anything else (finished, dropped) is purged.
+export async function pruneMatchFiles(root,keep){
+ const dir=join(root,'api','matches');let files,removed=0;
+ try{files=await readdir(dir);}catch{return {removed};}
+ for(const f of files){const m=f.match(/^(\d+)\.json$/);if(m&&!keep.has(m[1])){try{await unlink(join(dir,f));removed++;}catch{}}}
+ return {removed};
+}
 export async function enrichAll({root,now,leagues,ids}){
  const extras={};
  await pool(ids,3,async id=>{extras[id]=await leagueExtras(id,root,now);});
  const sel=[],raws=new Map();
- for(const l of leagues){for(const m of [...l.matches,...(l.results??[]).slice(0,8)])sel.push(m);for(const [k,v] of l.raw??[])raws.set(k,v);}
+ for(const l of leagues){for(const m of l.matches)sel.push(m);for(const [k,v] of l.raw??[])raws.set(k,v);}
  const details=await matchDetails(sel,raws,root,now);
- return {extras,details};
+ const pruned=await pruneMatchFiles(root,new Set(sel.map(m=>m.id)));
+ return {extras,details,pruned};
 }

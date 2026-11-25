@@ -28,7 +28,6 @@ export function normalizeAny(event,league){
  minute:s==='in'?text(c.status.displayClock):null,home_team:team(home),away_team:team(away),
  home_score:s==='pre'?null:score(home.score),away_score:s==='pre'?null:score(away.score),venue:text(c.venue?.fullName),broadcast:broadcasts.length?[...new Set(broadcasts)].join(', '):null,...extras(event,c,home,away,s)};
 }
-export function filterResults(matches){const u=new Map();for(const m of matches)if(m&&m.state==='post')u.set(m.id,m);return [...u.values()].sort((a,b)=>Date.parse(b.date)-Date.parse(a.date)||a.id.localeCompare(b.id));}
 export function normalizeEvent(event,league){
  const c=event.competitions?.[0],s=c?.status?.type?.state;
  if(!['pre','in','post'].includes(s))throw new Error(`Unknown ESPN state for ${event.id}`);

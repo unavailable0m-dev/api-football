@@ -15,8 +15,8 @@ export async function update({root=process.cwd(),now=new Date(),fetcher=fetchMat
    try{
      const result=await fetcher(id,previous,{now});
      // Keep data files untouched when payload is unchanged; health tracks successful checks.
-     const identical=previous&&previous.league_name===result.league.name&&JSON.stringify(previous.matches)===JSON.stringify(result.matches)&&JSON.stringify(previous.results??[])===JSON.stringify(result.results??[]);
-     const current=identical?{...previous,stale:false}:leagueJSON(id,result.league.name,result.matches,timestamp,result.results??[]);
+     const identical=previous&&previous.league_name===result.league.name&&JSON.stringify(previous.matches)===JSON.stringify(result.matches);
+     const current=identical?{...previous,stale:false}:leagueJSON(id,result.league.name,result.matches,timestamp);
      await saveChanged(file,current);leagues.push(current);rawByLeague.set(id,result.raw);
      health.leagues[id]={status:'ok',last_success:timestamp,last_change:current.last_update,error:null,...result.coverage};
    }catch(e){
@@ -26,7 +26,7 @@ export async function update({root=process.cwd(),now=new Date(),fetcher=fetchMat
      console.error(`${id}: ${e.message}`);
    }
  });
- if(enrich){try{const forDetail=leagues.map(l=>({matches:l.matches,results:l.results,raw:rawByLeague.get(l.league_id)}));health.enrichment=await enrich({root,now,leagues:forDetail,ids:LEAGUE_IDS});}catch(e){health.enrichment={error:String(e.message).slice(0,200)};}}
+ if(enrich){try{const forDetail=leagues.map(l=>({matches:l.matches,raw:rawByLeague.get(l.league_id)}));health.enrichment=await enrich({root,now,leagues:forDetail,ids:LEAGUE_IDS});}catch(e){health.enrichment={error:String(e.message).slice(0,200)};}}
  leagues.sort((a,b)=>LEAGUE_IDS.indexOf(a.league_id)-LEAGUE_IDS.indexOf(b.league_id));
  health.ok=failures===0;health.failed_leagues=LEAGUE_IDS.filter(id=>health.leagues[id].status!=='ok');
  // Never replace a complete aggregate with a partial first-run result.
