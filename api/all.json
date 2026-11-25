@@ -1253,7 +1253,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "The City Ground",
-      "broadcast": null
+      "broadcast": "USA Net, Universo"
     },
     {
       "id": "401882791",
@@ -1589,7 +1589,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Old Trafford",
-      "broadcast": null
+      "broadcast": "Peacock"
     },
     {
       "id": "401879227",
@@ -1613,7 +1613,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Elland Road",
-      "broadcast": null
+      "broadcast": "USA Net, Universo"
     },
     {
       "id": "401882790",
@@ -1805,7 +1805,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Portman Road",
-      "broadcast": null
+      "broadcast": "USA Net, Tele"
     },
     {
       "id": "401882793",
@@ -2213,7 +2213,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Hill Dickinson Stadium",
-      "broadcast": null
+      "broadcast": "USA Net, Universo"
     },
     {
       "id": "401882787",
@@ -2381,7 +2381,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Stadium of Light",
-      "broadcast": null
+      "broadcast": "Peacock"
     },
     {
       "id": "401879228",
@@ -2405,7 +2405,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Craven Cottage",
-      "broadcast": null
+      "broadcast": "Peacock"
     },
     {
       "id": "401879230",
@@ -2429,7 +2429,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Selhurst Park",
-      "broadcast": null
+      "broadcast": "Peacock"
     },
     {
       "id": "401879231",
@@ -2453,7 +2453,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "American Express Stadium",
-      "broadcast": null
+      "broadcast": "USA Net, Universo"
     },
     {
       "id": "401884724",
@@ -2621,7 +2621,7 @@
       "home_score": null,
       "away_score": null,
       "venue": "Emirates Stadium",
-      "broadcast": null
+      "broadcast": "USA Net, Tele"
     },
     {
       "id": "401884725",
